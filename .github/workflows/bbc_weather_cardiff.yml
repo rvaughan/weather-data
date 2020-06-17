@@ -1,0 +1,26 @@
+name: Fetch latest BBC Weather data for Cardiff
+
+on:
+  repository_dispatch:
+  schedule:
+    - cron:  '00 * * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out this repo
+      uses: actions/checkout@v2
+    - name: Fetch latest data
+      run: |-
+        mkdir -p cardiff/bbc && cd cardiff/bbc
+        wget -q -O 3_day_forecast.rss "https://weather-broker-cdn.api.bbci.co.uk/en/forecast/rss/3day/2653822"
+        wget -q -O observations.rss "https://weather-broker-cdn.api.bbci.co.uk/en/observation/rss/2653822"
+    - name: Commit and push data if it changed
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest BBC Weather for Cardiff: ${timestamp}" || exit 0
+        git push

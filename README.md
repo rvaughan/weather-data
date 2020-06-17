@@ -10,3 +10,9 @@ repository grabs these feeds once an hour for Cardiff from these endpoints:
 
   * [3 day forecast](https://weather-broker-cdn.api.bbci.co.uk/en/forecast/rss/3day/2653822)
   * [Observations](https://weather-broker-cdn.api.bbci.co.uk/en/observation/rss/2653822)
+
+## MetOffice
+
+I've set up a MetOffice application complete with API Key.
+
+  * https://metoffice.apiconnect.ibmcloud.com/metoffice/production/node/2288

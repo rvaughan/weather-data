@@ -1,0 +1,30 @@
+name: Fetch latest MetOffice Weather data for Cardiff
+
+on:
+  repository_dispatch:
+  schedule:
+    - cron:  '05 * * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out this repo
+      uses: actions/checkout@v2
+    - name: Fetch latest data
+      run: |-
+        mkdir -p cardiff/metoffice && cd cardiff/metoffice
+        curl --request GET \
+          --url 'https://api-metoffice.apiconnect.ibmcloud.com/metoffice/production/v0/forecasts/point/three-hourly?excludeParameterMetadata=false&includeLocationName=true&latitude=51.4816&longitude=3.1791' \
+          --header 'accept: application/json' \
+          --header 'x-ibm-client-id: dfbb2c5a-5f2a-413d-b676-a88e2a020f44' \
+          --header 'x-ibm-client-secret: fV2gW2kA4wD1yQ8lJ6yX7vE6bJ4mJ0hN1fV8gS1uJ3gH5uP5fO' \
+          -o weather.json
+    - name: Commit and push data if it changed
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest MetOffice Weather for Cardiff: ${timestamp}" || exit 0
+        git push

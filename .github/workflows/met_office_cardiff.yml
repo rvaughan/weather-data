@@ -3,7 +3,7 @@ name: Fetch latest MetOffice Weather data for Cardiff
 on:
   repository_dispatch:
   schedule:
-    - cron:  '05 * * * *'
+    - cron:  '05,35 * * * *'
 
 jobs:
   scheduled:

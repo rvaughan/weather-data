@@ -2,8 +2,8 @@ name: Fetch latest BBC Weather data for Cardiff
 
 on:
   repository_dispatch:
-  schedule:
-    - cron:  '00 * * * *'
+  # schedule:
+  #   - cron:  '00 * * * *'
 
 jobs:
   scheduled:

@@ -2,6 +2,7 @@
 
 git pull
 
+cd ..
 mkdir -p cardiff/metoffice && cd cardiff/metoffice
 curl --request GET \
     --url 'https://api-metoffice.apiconnect.ibmcloud.com/metoffice/production/v0/forecasts/point/three-hourly?excludeParameterMetadata=false&includeLocationName=true&latitude=51.4816&longitude=3.1791' \

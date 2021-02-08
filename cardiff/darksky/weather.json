@@ -3,495 +3,408 @@
   "longitude": 3.1791,
   "timezone": "Europe/Amsterdam",
   "currently": {
-    "time": 1612802792,
-    "summary": "Possible Light Snow",
+    "time": 1612805565,
+    "summary": "Snow",
     "icon": "snow",
-    "precipIntensity": 0.0059,
-    "precipIntensityError": 0.0037,
-    "precipProbability": 0.42,
+    "precipIntensity": 0.0219,
+    "precipIntensityError": 0.0018,
+    "precipProbability": 1,
     "precipType": "snow",
-    "precipAccumulation": 0.0713,
-    "temperature": 26.9,
-    "apparentTemperature": 12.95,
-    "dewPoint": 23.47,
+    "precipAccumulation": 0.2726,
+    "temperature": 26.12,
+    "apparentTemperature": 11.8,
+    "dewPoint": 22.71,
     "humidity": 0.87,
-    "pressure": 1002.4,
-    "windSpeed": 21.1,
-    "windGust": 22.37,
-    "windBearing": 71,
+    "pressure": 1002.8,
+    "windSpeed": 21.55,
+    "windGust": 23.44,
+    "windBearing": 70,
     "cloudCover": 1,
     "uvIndex": 0,
-    "visibility": 4.866,
-    "ozone": 367.8
+    "visibility": 2.119,
+    "ozone": 370.7
   },
   "minutely": {
-    "summary": "Snow stopping in 50 min.",
+    "summary": "Snow stopping in 14 min.",
     "icon": "snow",
     "data": [
       {
-        "time": 1612802760,
-        "precipIntensity": 0.006,
-        "precipIntensityError": 0.0036,
-        "precipProbability": 0.42,
-        "precipType": "snow"
-      },
-      {
-        "time": 1612802820,
-        "precipIntensity": 0.0063,
-        "precipIntensityError": 0.0039,
-        "precipProbability": 0.42,
-        "precipType": "snow"
-      },
-      {
-        "time": 1612802880,
-        "precipIntensity": 0.0073,
-        "precipIntensityError": 0.0044,
-        "precipProbability": 0.48,
-        "precipType": "snow"
-      },
-      {
-        "time": 1612802940,
-        "precipIntensity": 0.0086,
-        "precipIntensityError": 0.0048,
-        "precipProbability": 0.56,
-        "precipType": "snow"
-      },
-      {
-        "time": 1612803000,
-        "precipIntensity": 0.0097,
-        "precipIntensityError": 0.005,
-        "precipProbability": 0.65,
-        "precipType": "snow"
-      },
-      {
-        "time": 1612803060,
-        "precipIntensity": 0.0107,
-        "precipIntensityError": 0.0048,
-        "precipProbability": 0.72,
-        "precipType": "snow"
-      },
-      {
-        "time": 1612803120,
-        "precipIntensity": 0.0116,
-        "precipIntensityError": 0.0049,
-        "precipProbability": 0.77,
-        "precipType": "snow"
-      },
-      {
-        "time": 1612803180,
-        "precipIntensity": 0.0122,
-        "precipIntensityError": 0.0048,
-        "precipProbability": 0.8,
-        "precipType": "snow"
-      },
-      {
-        "time": 1612803240,
-        "precipIntensity": 0.0125,
-        "precipIntensityError": 0.0048,
-        "precipProbability": 0.81,
-        "precipType": "snow"
-      },
-      {
-        "time": 1612803300,
-        "precipIntensity": 0.0126,
-        "precipIntensityError": 0.0048,
-        "precipProbability": 0.8,
-        "precipType": "snow"
-      },
-      {
-        "time": 1612803360,
-        "precipIntensity": 0.0127,
-        "precipIntensityError": 0.0049,
-        "precipProbability": 0.77,
-        "precipType": "snow"
-      },
-      {
-        "time": 1612803420,
-        "precipIntensity": 0.0127,
-        "precipIntensityError": 0.0051,
-        "precipProbability": 0.74,
-        "precipType": "snow"
-      },
-      {
-        "time": 1612803480,
-        "precipIntensity": 0.0126,
-        "precipIntensityError": 0.0054,
-        "precipProbability": 0.71,
-        "precipType": "snow"
-      },
-      {
-        "time": 1612803540,
-        "precipIntensity": 0.0127,
-        "precipIntensityError": 0.0058,
-        "precipProbability": 0.68,
-        "precipType": "snow"
-      },
-      {
-        "time": 1612803600,
-        "precipIntensity": 0.0131,
-        "precipIntensityError": 0.0065,
-        "precipProbability": 0.66,
-        "precipType": "snow"
-      },
-      {
-        "time": 1612803660,
-        "precipIntensity": 0.0138,
-        "precipIntensityError": 0.0073,
-        "precipProbability": 0.64,
-        "precipType": "snow"
-      },
-      {
-        "time": 1612803720,
-        "precipIntensity": 0.0145,
-        "precipIntensityError": 0.0079,
-        "precipProbability": 0.65,
-        "precipType": "snow"
-      },
-      {
-        "time": 1612803780,
-        "precipIntensity": 0.0156,
-        "precipIntensityError": 0.0085,
-        "precipProbability": 0.67,
-        "precipType": "snow"
-      },
-      {
-        "time": 1612803840,
-        "precipIntensity": 0.0166,
-        "precipIntensityError": 0.0088,
-        "precipProbability": 0.68,
-        "precipType": "snow"
-      },
-      {
-        "time": 1612803900,
-        "precipIntensity": 0.018,
-        "precipIntensityError": 0.0089,
-        "precipProbability": 0.72,
-        "precipType": "snow"
-      },
-      {
-        "time": 1612803960,
-        "precipIntensity": 0.0193,
-        "precipIntensityError": 0.0092,
-        "precipProbability": 0.75,
-        "precipType": "snow"
-      },
-      {
-        "time": 1612804020,
-        "precipIntensity": 0.0207,
-        "precipIntensityError": 0.009,
-        "precipProbability": 0.77,
-        "precipType": "snow"
-      },
-      {
-        "time": 1612804080,
-        "precipIntensity": 0.0215,
-        "precipIntensityError": 0.0088,
-        "precipProbability": 0.8,
-        "precipType": "snow"
-      },
-      {
-        "time": 1612804140,
-        "precipIntensity": 0.0226,
-        "precipIntensityError": 0.0086,
-        "precipProbability": 0.83,
-        "precipType": "snow"
-      },
-      {
-        "time": 1612804200,
-        "precipIntensity": 0.0234,
-        "precipIntensityError": 0.0084,
-        "precipProbability": 0.85,
-        "precipType": "snow"
-      },
-      {
-        "time": 1612804260,
-        "precipIntensity": 0.0242,
-        "precipIntensityError": 0.008,
-        "precipProbability": 0.87,
-        "precipType": "snow"
-      },
-      {
-        "time": 1612804320,
-        "precipIntensity": 0.0247,
-        "precipIntensityError": 0.0079,
-        "precipProbability": 0.89,
-        "precipType": "snow"
-      },
-      {
-        "time": 1612804380,
-        "precipIntensity": 0.0251,
-        "precipIntensityError": 0.0077,
-        "precipProbability": 0.89,
-        "precipType": "snow"
-      },
-      {
-        "time": 1612804440,
-        "precipIntensity": 0.0255,
-        "precipIntensityError": 0.0075,
-        "precipProbability": 0.9,
-        "precipType": "snow"
-      },
-      {
-        "time": 1612804500,
-        "precipIntensity": 0.0256,
-        "precipIntensityError": 0.0075,
-        "precipProbability": 0.9,
-        "precipType": "snow"
-      },
-      {
-        "time": 1612804560,
-        "precipIntensity": 0.0257,
-        "precipIntensityError": 0.0075,
-        "precipProbability": 0.91,
-        "precipType": "snow"
-      },
-      {
-        "time": 1612804620,
-        "precipIntensity": 0.0259,
-        "precipIntensityError": 0.0074,
-        "precipProbability": 0.9,
-        "precipType": "snow"
-      },
-      {
-        "time": 1612804680,
-        "precipIntensity": 0.0258,
-        "precipIntensityError": 0.0075,
-        "precipProbability": 0.88,
-        "precipType": "snow"
-      },
-      {
-        "time": 1612804740,
-        "precipIntensity": 0.0257,
-        "precipIntensityError": 0.0075,
-        "precipProbability": 0.88,
-        "precipType": "snow"
-      },
-      {
-        "time": 1612804800,
-        "precipIntensity": 0.0257,
-        "precipIntensityError": 0.0076,
-        "precipProbability": 0.85,
-        "precipType": "snow"
-      },
-      {
-        "time": 1612804860,
-        "precipIntensity": 0.0256,
-        "precipIntensityError": 0.0078,
-        "precipProbability": 0.83,
-        "precipType": "snow"
-      },
-      {
-        "time": 1612804920,
-        "precipIntensity": 0.0253,
-        "precipIntensityError": 0.0079,
-        "precipProbability": 0.79,
-        "precipType": "snow"
-      },
-      {
-        "time": 1612804980,
-        "precipIntensity": 0.0251,
-        "precipIntensityError": 0.0082,
-        "precipProbability": 0.76,
-        "precipType": "snow"
-      },
-      {
-        "time": 1612805040,
-        "precipIntensity": 0.025,
-        "precipIntensityError": 0.0082,
-        "precipProbability": 0.74,
-        "precipType": "snow"
-      },
-      {
-        "time": 1612805100,
-        "precipIntensity": 0.0248,
-        "precipIntensityError": 0.0083,
-        "precipProbability": 0.7,
-        "precipType": "snow"
-      },
-      {
-        "time": 1612805160,
-        "precipIntensity": 0.0246,
-        "precipIntensityError": 0.0086,
-        "precipProbability": 0.67,
-        "precipType": "snow"
-      },
-      {
-        "time": 1612805220,
-        "precipIntensity": 0.0244,
-        "precipIntensityError": 0.0085,
-        "precipProbability": 0.63,
-        "precipType": "snow"
-      },
-      {
-        "time": 1612805280,
-        "precipIntensity": 0.0241,
-        "precipIntensityError": 0.0088,
-        "precipProbability": 0.59,
-        "precipType": "snow"
-      },
-      {
-        "time": 1612805340,
-        "precipIntensity": 0.0239,
-        "precipIntensityError": 0.0088,
-        "precipProbability": 0.56,
-        "precipType": "snow"
-      },
-      {
-        "time": 1612805400,
-        "precipIntensity": 0.0236,
-        "precipIntensityError": 0.009,
-        "precipProbability": 0.52,
-        "precipType": "snow"
-      },
-      {
-        "time": 1612805460,
-        "precipIntensity": 0.0237,
-        "precipIntensityError": 0.0091,
-        "precipProbability": 0.49,
-        "precipType": "snow"
-      },
-      {
         "time": 1612805520,
-        "precipIntensity": 0.0234,
-        "precipIntensityError": 0.0092,
-        "precipProbability": 0.45,
+        "precipIntensity": 0.0218,
+        "precipIntensityError": 0.0018,
+        "precipProbability": 1,
         "precipType": "snow"
       },
       {
         "time": 1612805580,
-        "precipIntensity": 0.0232,
-        "precipIntensityError": 0.0093,
-        "precipProbability": 0.42,
+        "precipIntensity": 0.0218,
+        "precipIntensityError": 0.0018,
+        "precipProbability": 1,
         "precipType": "snow"
       },
       {
         "time": 1612805640,
-        "precipIntensity": 0.023,
-        "precipIntensityError": 0.0094,
-        "precipProbability": 0.38,
+        "precipIntensity": 0.0216,
+        "precipIntensityError": 0.0019,
+        "precipProbability": 1,
         "precipType": "snow"
       },
       {
         "time": 1612805700,
-        "precipIntensity": 0.023,
-        "precipIntensityError": 0.0094,
-        "precipProbability": 0.36,
+        "precipIntensity": 0.0215,
+        "precipIntensityError": 0.002,
+        "precipProbability": 1,
         "precipType": "snow"
       },
       {
         "time": 1612805760,
-        "precipIntensity": 0.0227,
-        "precipIntensityError": 0.0095,
-        "precipProbability": 0.34,
+        "precipIntensity": 0.0214,
+        "precipIntensityError": 0.0025,
+        "precipProbability": 1,
         "precipType": "snow"
       },
       {
         "time": 1612805820,
-        "precipIntensity": 0.0225,
-        "precipIntensityError": 0.0096,
-        "precipProbability": 0.31,
+        "precipIntensity": 0.0215,
+        "precipIntensityError": 0.0031,
+        "precipProbability": 1,
         "precipType": "snow"
       },
       {
         "time": 1612805880,
-        "precipIntensity": 0.0226,
-        "precipIntensityError": 0.0096,
-        "precipProbability": 0.28,
+        "precipIntensity": 0.0215,
+        "precipIntensityError": 0.004,
+        "precipProbability": 0.99,
         "precipType": "snow"
       },
       {
         "time": 1612805940,
-        "precipIntensity": 0.0223,
-        "precipIntensityError": 0.0096,
-        "precipProbability": 0.26,
+        "precipIntensity": 0.0212,
+        "precipIntensityError": 0.0052,
+        "precipProbability": 0.97,
         "precipType": "snow"
       },
       {
         "time": 1612806000,
-        "precipIntensity": 0.0218,
-        "precipIntensityError": 0.0099,
-        "precipProbability": 0.25,
+        "precipIntensity": 0.0205,
+        "precipIntensityError": 0.0064,
+        "precipProbability": 0.94,
         "precipType": "snow"
       },
       {
         "time": 1612806060,
-        "precipIntensity": 0.022,
-        "precipIntensityError": 0.0097,
-        "precipProbability": 0.23,
+        "precipIntensity": 0.0198,
+        "precipIntensityError": 0.0072,
+        "precipProbability": 0.87,
         "precipType": "snow"
       },
       {
         "time": 1612806120,
-        "precipIntensity": 0.0217,
-        "precipIntensityError": 0.01,
-        "precipProbability": 0.22,
+        "precipIntensity": 0.0188,
+        "precipIntensityError": 0.0079,
+        "precipProbability": 0.78,
         "precipType": "snow"
       },
       {
         "time": 1612806180,
-        "precipIntensity": 0.0221,
-        "precipIntensityError": 0.01,
-        "precipProbability": 0.2,
+        "precipIntensity": 0.0177,
+        "precipIntensityError": 0.0084,
+        "precipProbability": 0.68,
         "precipType": "snow"
       },
       {
         "time": 1612806240,
-        "precipIntensity": 0.0217,
-        "precipIntensityError": 0.01,
-        "precipProbability": 0.2,
+        "precipIntensity": 0.0171,
+        "precipIntensityError": 0.0086,
+        "precipProbability": 0.57,
         "precipType": "snow"
       },
       {
         "time": 1612806300,
-        "precipIntensity": 0.0213,
-        "precipIntensityError": 0.0102,
-        "precipProbability": 0.17,
+        "precipIntensity": 0.016,
+        "precipIntensityError": 0.0089,
+        "precipProbability": 0.47,
         "precipType": "snow"
       },
       {
         "time": 1612806360,
-        "precipIntensity": 0.0216,
-        "precipIntensityError": 0.0102,
-        "precipProbability": 0.16,
+        "precipIntensity": 0.0156,
+        "precipIntensityError": 0.0091,
+        "precipProbability": 0.38,
         "precipType": "snow"
+      },
+      {
+        "time": 1612806420,
+        "precipIntensity": 0.0149,
+        "precipIntensityError": 0.009,
+        "precipProbability": 0.29,
+        "precipType": "snow"
+      },
+      {
+        "time": 1612806480,
+        "precipIntensity": 0.0141,
+        "precipIntensityError": 0.009,
+        "precipProbability": 0.23,
+        "precipType": "snow"
+      },
+      {
+        "time": 1612806540,
+        "precipIntensity": 0.0138,
+        "precipIntensityError": 0.0091,
+        "precipProbability": 0.18,
+        "precipType": "snow"
+      },
+      {
+        "time": 1612806600,
+        "precipIntensity": 0.0129,
+        "precipIntensityError": 0.0088,
+        "precipProbability": 0.13,
+        "precipType": "snow"
+      },
+      {
+        "time": 1612806660,
+        "precipIntensity": 0.0136,
+        "precipIntensityError": 0.0087,
+        "precipProbability": 0.1,
+        "precipType": "snow"
+      },
+      {
+        "time": 1612806720,
+        "precipIntensity": 0.0138,
+        "precipIntensityError": 0.0087,
+        "precipProbability": 0.08,
+        "precipType": "snow"
+      },
+      {
+        "time": 1612806780,
+        "precipIntensity": 0.0129,
+        "precipIntensityError": 0.0087,
+        "precipProbability": 0.06,
+        "precipType": "snow"
+      },
+      {
+        "time": 1612806840,
+        "precipIntensity": 0.0128,
+        "precipIntensityError": 0.0087,
+        "precipProbability": 0.04,
+        "precipType": "snow"
+      },
+      {
+        "time": 1612806900,
+        "precipIntensity": 0.0119,
+        "precipIntensityError": 0.0084,
+        "precipProbability": 0.03,
+        "precipType": "snow"
+      },
+      {
+        "time": 1612806960,
+        "precipIntensity": 0.0119,
+        "precipIntensityError": 0.0084,
+        "precipProbability": 0.02,
+        "precipType": "snow"
+      },
+      {
+        "time": 1612807020,
+        "precipIntensity": 0.0113,
+        "precipIntensityError": 0.0083,
+        "precipProbability": 0.02,
+        "precipType": "snow"
+      },
+      {
+        "time": 1612807080,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1612807140,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1612807200,
+        "precipIntensity": 0.0116,
+        "precipIntensityError": 0.0084,
+        "precipProbability": 0.01,
+        "precipType": "snow"
+      },
+      {
+        "time": 1612807260,
+        "precipIntensity": 0.0121,
+        "precipIntensityError": 0.0089,
+        "precipProbability": 0.01,
+        "precipType": "snow"
+      },
+      {
+        "time": 1612807320,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1612807380,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1612807440,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1612807500,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1612807560,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1612807620,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1612807680,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1612807740,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1612807800,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1612807860,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1612807920,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1612807980,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1612808040,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1612808100,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1612808160,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1612808220,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1612808280,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1612808340,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1612808400,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1612808460,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1612808520,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1612808580,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1612808640,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1612808700,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1612808760,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1612808820,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1612808880,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1612808940,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1612809000,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1612809060,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1612809120,
+        "precipIntensity": 0,
+        "precipProbability": 0
       }
     ]
   },
   "hourly": {
-    "summary": "Foggy later this evening and tonight.",
+    "summary": "Foggy until tonight.",
     "icon": "fog",
     "data": [
       {
-        "time": 1612800000,
+        "time": 1612803600,
         "summary": "Overcast",
         "icon": "cloudy",
-        "precipIntensity": 0.0026,
-        "precipProbability": 0.06,
+        "precipIntensity": 0.0039,
+        "precipProbability": 0.09,
         "precipType": "snow",
-        "precipAccumulation": 0.0287,
-        "temperature": 26.83,
-        "apparentTemperature": 13.03,
-        "dewPoint": 22.96,
-        "humidity": 0.85,
-        "pressure": 1001.8,
-        "windSpeed": 20.52,
-        "windGust": 21.32,
-        "windBearing": 71,
-        "cloudCover": 1,
-        "uvIndex": 0,
-        "visibility": 4.927,
-        "ozone": 364.2
-      },
-      {
-        "time": 1612803600,
-        "summary": "Snow",
-        "icon": "snow",
-        "precipIntensity": 0.0151,
-        "precipProbability": 0.91,
-        "precipType": "snow",
-        "precipAccumulation": 0.1831,
-        "temperature": 26.82,
-        "apparentTemperature": 12.8,
+        "precipAccumulation": 0.0427,
+        "temperature": 26.79,
+        "apparentTemperature": 12.76,
         "dewPoint": 23.46,
         "humidity": 0.87,
         "pressure": 1002.5,
@@ -505,14 +418,14 @@
       },
       {
         "time": 1612807200,
-        "summary": "Snow",
+        "summary": "Light Snow",
         "icon": "snow",
-        "precipIntensity": 0.0112,
-        "precipProbability": 0.49,
+        "precipIntensity": 0.0079,
+        "precipProbability": 1,
         "precipType": "snow",
-        "precipAccumulation": 0.1418,
-        "temperature": 25.62,
-        "apparentTemperature": 11.07,
+        "precipAccumulation": 0.0999,
+        "temperature": 25.61,
+        "apparentTemperature": 11.06,
         "dewPoint": 22.09,
         "humidity": 0.86,
         "pressure": 1002.9,
@@ -528,12 +441,12 @@
         "time": 1612810800,
         "summary": "Foggy",
         "icon": "fog",
-        "precipIntensity": 0.0102,
+        "precipIntensity": 0.0099,
         "precipProbability": 0.08,
         "precipType": "snow",
-        "precipAccumulation": 0.1172,
+        "precipAccumulation": 0.1247,
         "temperature": 25.7,
-        "apparentTemperature": 11.11,
+        "apparentTemperature": 11.1,
         "dewPoint": 22.32,
         "humidity": 0.87,
         "pressure": 1003.3,
@@ -554,8 +467,8 @@
         "precipType": "snow",
         "precipAccumulation": 0.1197,
         "temperature": 25.88,
-        "apparentTemperature": 11.28,
-        "dewPoint": 22.35,
+        "apparentTemperature": 11.27,
+        "dewPoint": 22.36,
         "humidity": 0.86,
         "pressure": 1003.5,
         "windSpeed": 22.23,
@@ -679,7 +592,7 @@
         "precipProbability": 0.02,
         "precipType": "snow",
         "precipAccumulation": 0.0137,
-        "temperature": 25.73,
+        "temperature": 25.74,
         "apparentTemperature": 10.47,
         "dewPoint": 20.29,
         "humidity": 0.8,
@@ -700,8 +613,8 @@
         "precipProbability": 0.02,
         "precipType": "snow",
         "precipAccumulation": 0.0146,
-        "temperature": 25.86,
-        "apparentTemperature": 10.7,
+        "temperature": 25.87,
+        "apparentTemperature": 10.72,
         "dewPoint": 20.12,
         "humidity": 0.79,
         "pressure": 1005.5,
@@ -720,9 +633,9 @@
         "precipIntensity": 0.0009,
         "precipProbability": 0.02,
         "precipType": "snow",
-        "precipAccumulation": 0.0107,
-        "temperature": 26.21,
-        "apparentTemperature": 10.98,
+        "precipAccumulation": 0.0106,
+        "temperature": 26.24,
+        "apparentTemperature": 11.02,
         "dewPoint": 20.06,
         "humidity": 0.77,
         "pressure": 1005.6,
@@ -741,9 +654,9 @@
         "precipIntensity": 0.001,
         "precipProbability": 0.02,
         "precipType": "snow",
-        "precipAccumulation": 0.0113,
-        "temperature": 26.78,
-        "apparentTemperature": 11.47,
+        "precipAccumulation": 0.0112,
+        "temperature": 26.85,
+        "apparentTemperature": 11.57,
         "dewPoint": 20.46,
         "humidity": 0.77,
         "pressure": 1005.8,
@@ -762,9 +675,9 @@
         "precipIntensity": 0.0026,
         "precipProbability": 0.02,
         "precipType": "snow",
-        "precipAccumulation": 0.0294,
-        "temperature": 26.53,
-        "apparentTemperature": 11.06,
+        "precipAccumulation": 0.0292,
+        "temperature": 26.63,
+        "apparentTemperature": 11.19,
         "dewPoint": 20.41,
         "humidity": 0.77,
         "pressure": 1006.3,
@@ -786,7 +699,7 @@
         "precipAccumulation": 0.0195,
         "temperature": 26.25,
         "apparentTemperature": 10.87,
-        "dewPoint": 20.2,
+        "dewPoint": 20.19,
         "humidity": 0.78,
         "pressure": 1006.5,
         "windSpeed": 25.52,
@@ -826,8 +739,8 @@
         "precipProbability": 0.02,
         "precipType": "snow",
         "precipAccumulation": 0.009,
-        "temperature": 26.7,
-        "apparentTemperature": 11.3,
+        "temperature": 26.69,
+        "apparentTemperature": 11.29,
         "dewPoint": 19.81,
         "humidity": 0.75,
         "pressure": 1007,
@@ -866,8 +779,8 @@
         "icon": "partly-cloudy-day",
         "precipIntensity": 0,
         "precipProbability": 0,
-        "temperature": 26.55,
-        "apparentTemperature": 11.79,
+        "temperature": 26.54,
+        "apparentTemperature": 11.78,
         "dewPoint": 19.21,
         "humidity": 0.73,
         "pressure": 1007.7,
@@ -888,7 +801,7 @@
         "precipType": "snow",
         "precipAccumulation": 0.0062,
         "temperature": 26.8,
-        "apparentTemperature": 12.39,
+        "apparentTemperature": 12.38,
         "dewPoint": 19.06,
         "humidity": 0.72,
         "pressure": 1007.7,
@@ -908,7 +821,7 @@
         "precipProbability": 0.03,
         "precipType": "snow",
         "precipAccumulation": 0.0071,
-        "temperature": 27.24,
+        "temperature": 27.23,
         "apparentTemperature": 12.92,
         "dewPoint": 19.19,
         "humidity": 0.71,
@@ -929,7 +842,7 @@
         "precipProbability": 0.02,
         "precipType": "snow",
         "precipAccumulation": 0.0083,
-        "temperature": 27.45,
+        "temperature": 27.44,
         "apparentTemperature": 13,
         "dewPoint": 19.38,
         "humidity": 0.71,
@@ -951,7 +864,7 @@
         "precipType": "snow",
         "precipAccumulation": 0.01,
         "temperature": 27.79,
-        "apparentTemperature": 13.22,
+        "apparentTemperature": 13.21,
         "dewPoint": 19.71,
         "humidity": 0.71,
         "pressure": 1007.2,
@@ -972,7 +885,7 @@
         "precipType": "snow",
         "precipAccumulation": 0.011,
         "temperature": 28.04,
-        "apparentTemperature": 13.43,
+        "apparentTemperature": 13.42,
         "dewPoint": 20.16,
         "humidity": 0.72,
         "pressure": 1007.2,
@@ -992,8 +905,8 @@
         "precipProbability": 0.02,
         "precipType": "snow",
         "precipAccumulation": 0.0127,
-        "temperature": 28.18,
-        "apparentTemperature": 13.38,
+        "temperature": 28.17,
+        "apparentTemperature": 13.37,
         "dewPoint": 20.77,
         "humidity": 0.73,
         "pressure": 1007.2,
@@ -1011,8 +924,8 @@
         "icon": "wind",
         "precipIntensity": 0,
         "precipProbability": 0,
-        "temperature": 27.77,
-        "apparentTemperature": 12.65,
+        "temperature": 27.76,
+        "apparentTemperature": 12.64,
         "dewPoint": 20.68,
         "humidity": 0.74,
         "pressure": 1007.6,
@@ -1030,8 +943,8 @@
         "icon": "wind",
         "precipIntensity": 0,
         "precipProbability": 0,
-        "temperature": 27.38,
-        "apparentTemperature": 11.96,
+        "temperature": 27.37,
+        "apparentTemperature": 11.95,
         "dewPoint": 20.62,
         "humidity": 0.75,
         "pressure": 1007.6,
@@ -1049,8 +962,8 @@
         "icon": "wind",
         "precipIntensity": 0,
         "precipProbability": 0,
-        "temperature": 27.03,
-        "apparentTemperature": 11.54,
+        "temperature": 27.02,
+        "apparentTemperature": 11.53,
         "dewPoint": 20.7,
         "humidity": 0.77,
         "pressure": 1008,
@@ -1090,7 +1003,7 @@
         "precipType": "snow",
         "precipAccumulation": 0.0024,
         "temperature": 25.99,
-        "apparentTemperature": 10.57,
+        "apparentTemperature": 10.56,
         "dewPoint": 20.32,
         "humidity": 0.79,
         "pressure": 1008.2,
@@ -1149,7 +1062,7 @@
         "precipIntensity": 0,
         "precipProbability": 0,
         "temperature": 26.11,
-        "apparentTemperature": 10.96,
+        "apparentTemperature": 10.97,
         "dewPoint": 21.39,
         "humidity": 0.82,
         "pressure": 1007.5,
@@ -1167,8 +1080,8 @@
         "icon": "partly-cloudy-night",
         "precipIntensity": 0,
         "precipProbability": 0,
-        "temperature": 26.38,
-        "apparentTemperature": 11.34,
+        "temperature": 26.39,
+        "apparentTemperature": 11.35,
         "dewPoint": 21.67,
         "humidity": 0.82,
         "pressure": 1007.5,
@@ -1268,7 +1181,7 @@
         "precipProbability": 0,
         "temperature": 28.02,
         "apparentTemperature": 14.34,
-        "dewPoint": 22.12,
+        "dewPoint": 22.11,
         "humidity": 0.78,
         "pressure": 1010,
         "windSpeed": 21.42,
@@ -1306,7 +1219,7 @@
         "precipProbability": 0,
         "temperature": 28.41,
         "apparentTemperature": 15.54,
-        "dewPoint": 22.04,
+        "dewPoint": 22.03,
         "humidity": 0.77,
         "pressure": 1011.8,
         "windSpeed": 19.13,
@@ -1363,7 +1276,7 @@
         "precipProbability": 0,
         "temperature": 30.33,
         "apparentTemperature": 18.85,
-        "dewPoint": 22.03,
+        "dewPoint": 22.02,
         "humidity": 0.71,
         "pressure": 1014.2,
         "windSpeed": 16.68,
@@ -1381,8 +1294,8 @@
         "precipIntensity": 0,
         "precipProbability": 0,
         "temperature": 31.12,
-        "apparentTemperature": 20,
-        "dewPoint": 22.42,
+        "apparentTemperature": 19.99,
+        "dewPoint": 22.41,
         "humidity": 0.7,
         "pressure": 1014.6,
         "windSpeed": 16.31,
@@ -1399,8 +1312,8 @@
         "icon": "partly-cloudy-day",
         "precipIntensity": 0,
         "precipProbability": 0,
-        "temperature": 31.8,
-        "apparentTemperature": 21.16,
+        "temperature": 31.79,
+        "apparentTemperature": 21.15,
         "dewPoint": 22.87,
         "humidity": 0.69,
         "pressure": 1015.3,
@@ -1420,8 +1333,8 @@
         "precipProbability": 0.04,
         "precipType": "snow",
         "precipAccumulation": 0.0028,
-        "temperature": 32.37,
-        "apparentTemperature": 22.26,
+        "temperature": 32.36,
+        "apparentTemperature": 22.25,
         "dewPoint": 23.4,
         "humidity": 0.69,
         "pressure": 1015.8,
@@ -1441,9 +1354,9 @@
         "precipProbability": 0.04,
         "precipType": "snow",
         "precipAccumulation": 0.0084,
-        "temperature": 32.75,
-        "apparentTemperature": 23,
-        "dewPoint": 24.02,
+        "temperature": 32.74,
+        "apparentTemperature": 22.99,
+        "dewPoint": 24.01,
         "humidity": 0.7,
         "pressure": 1016.5,
         "windSpeed": 13.78,
@@ -1453,6 +1366,27 @@
         "uvIndex": 0,
         "visibility": 8.42,
         "ozone": 387.3
+      },
+      {
+        "time": 1612976400,
+        "summary": "Mostly Cloudy",
+        "icon": "partly-cloudy-night",
+        "precipIntensity": 0.001,
+        "precipProbability": 0.04,
+        "precipType": "snow",
+        "precipAccumulation": 0.007,
+        "temperature": 32.93,
+        "apparentTemperature": 23.52,
+        "dewPoint": 24.56,
+        "humidity": 0.71,
+        "pressure": 1017.3,
+        "windSpeed": 13.03,
+        "windGust": 15.58,
+        "windBearing": 41,
+        "cloudCover": 0.72,
+        "uvIndex": 0,
+        "visibility": 7.99,
+        "ozone": 387.9
       }
     ]
   },
@@ -1473,15 +1407,15 @@
         "precipProbability": 0.32,
         "precipType": "snow",
         "precipAccumulation": 1.3,
-        "temperatureHigh": 28.26,
-        "temperatureHighTime": 1612786800,
+        "temperatureHigh": 28.1,
+        "temperatureHighTime": 1612787040,
         "temperatureLow": 25.05,
         "temperatureLowTime": 1612808220,
-        "apparentTemperatureHigh": 14.13,
-        "apparentTemperatureHighTime": 1612790040,
+        "apparentTemperatureHigh": 14.01,
+        "apparentTemperatureHighTime": 1612790640,
         "apparentTemperatureLow": 10.27,
         "apparentTemperatureLowTime": 1612831140,
-        "dewPoint": 23.46,
+        "dewPoint": 23.47,
         "humidity": 0.87,
         "pressure": 1001.5,
         "windSpeed": 22.98,
@@ -1516,10 +1450,10 @@
         "precipType": "snow",
         "precipAccumulation": 0.28,
         "temperatureHigh": 28.69,
-        "temperatureHighTime": 1612889460,
+        "temperatureHighTime": 1612889400,
         "temperatureLow": 25.21,
-        "temperatureLowTime": 1612911600,
-        "apparentTemperatureHigh": 13.47,
+        "temperatureLowTime": 1612911540,
+        "apparentTemperatureHigh": 13.46,
         "apparentTemperatureHighTime": 1612888200,
         "apparentTemperatureLow": 10.21,
         "apparentTemperatureLowTime": 1612911300,
@@ -1536,12 +1470,12 @@
         "visibility": 9.936,
         "ozone": 356.2,
         "temperatureMin": 25.21,
-        "temperatureMinTime": 1612911600,
+        "temperatureMinTime": 1612911540,
         "temperatureMax": 28.69,
-        "temperatureMaxTime": 1612889460,
+        "temperatureMaxTime": 1612889400,
         "apparentTemperatureMin": 10.21,
         "apparentTemperatureMinTime": 1612911300,
-        "apparentTemperatureMax": 13.47,
+        "apparentTemperatureMax": 13.46,
         "apparentTemperatureMaxTime": 1612888200
       },
       {
@@ -1557,11 +1491,11 @@
         "precipProbability": 0.07,
         "precipType": "snow",
         "precipAccumulation": 0.08,
-        "temperatureHigh": 33.46,
-        "temperatureHighTime": 1612978380,
+        "temperatureHigh": 33.45,
+        "temperatureHighTime": 1612978440,
         "temperatureLow": 27.81,
         "temperatureLowTime": 1613023200,
-        "apparentTemperatureHigh": 23.53,
+        "apparentTemperatureHigh": 23.52,
         "apparentTemperatureHighTime": 1612976520,
         "apparentTemperatureLow": 17.45,
         "apparentTemperatureLowTime": 1613023200,
@@ -1579,11 +1513,11 @@
         "ozone": 374.8,
         "temperatureMin": 25.21,
         "temperatureMinTime": 1612911600,
-        "temperatureMax": 33.46,
-        "temperatureMaxTime": 1612978380,
+        "temperatureMax": 33.45,
+        "temperatureMaxTime": 1612978440,
         "apparentTemperatureMin": 10.22,
         "apparentTemperatureMinTime": 1612911600,
-        "apparentTemperatureMax": 23.53,
+        "apparentTemperatureMax": 23.52,
         "apparentTemperatureMaxTime": 1612976520
       },
       {
@@ -1599,13 +1533,13 @@
         "precipProbability": 0.02,
         "precipType": "snow",
         "precipAccumulation": 0.03,
-        "temperatureHigh": 30.16,
+        "temperatureHigh": 29.4,
         "temperatureHighTime": 1613066400,
         "temperatureLow": 25.26,
         "temperatureLowTime": 1613105940,
         "apparentTemperatureHigh": 17.45,
         "apparentTemperatureHighTime": 1613023200,
-        "apparentTemperatureLow": 10.54,
+        "apparentTemperatureLow": 10.53,
         "apparentTemperatureLowTime": 1613109600,
         "dewPoint": 22.11,
         "humidity": 0.77,
@@ -1623,7 +1557,7 @@
         "temperatureMinTime": 1613033880,
         "temperatureMax": 30.68,
         "temperatureMaxTime": 1612998000,
-        "apparentTemperatureMin": 14.1,
+        "apparentTemperatureMin": 14.05,
         "apparentTemperatureMinTime": 1613084400,
         "apparentTemperatureMax": 20.89,
         "apparentTemperatureMaxTime": 1613001780
@@ -1645,9 +1579,9 @@
         "temperatureLowTime": 1613196000,
         "apparentTemperatureHigh": 13.96,
         "apparentTemperatureHighTime": 1613135160,
-        "apparentTemperatureLow": 6.09,
+        "apparentTemperatureLow": 6.08,
         "apparentTemperatureLowTime": 1613196000,
-        "dewPoint": 20.98,
+        "dewPoint": 20.97,
         "humidity": 0.78,
         "pressure": 1031.7,
         "windSpeed": 24.87,
@@ -1665,7 +1599,7 @@
         "temperatureMaxTime": 1613148900,
         "apparentTemperatureMin": 10.02,
         "apparentTemperatureMinTime": 1613116440,
-        "apparentTemperatureMax": 14.1,
+        "apparentTemperatureMax": 14.05,
         "apparentTemperatureMaxTime": 1613084400
       },
       {
@@ -1681,15 +1615,15 @@
         "precipProbability": 0.06,
         "precipType": "snow",
         "precipAccumulation": 0.05,
-        "temperatureHigh": 29.81,
+        "temperatureHigh": 29.8,
         "temperatureHighTime": 1613236380,
         "temperatureLow": 26.47,
         "temperatureLowTime": 1613282400,
-        "apparentTemperatureHigh": 14.59,
-        "apparentTemperatureHighTime": 1613233920,
+        "apparentTemperatureHigh": 14.58,
+        "apparentTemperatureHighTime": 1613233980,
         "apparentTemperatureLow": 11.63,
         "apparentTemperatureLowTime": 1613282400,
-        "dewPoint": 18.74,
+        "dewPoint": 18.73,
         "humidity": 0.73,
         "pressure": 1035.6,
         "windSpeed": 24.97,
@@ -1701,14 +1635,14 @@
         "uvIndexTime": 1613217840,
         "visibility": 10,
         "ozone": 364.4,
-        "temperatureMin": 21.28,
+        "temperatureMin": 21.27,
         "temperatureMinTime": 1613197200,
-        "temperatureMax": 29.81,
+        "temperatureMax": 29.8,
         "temperatureMaxTime": 1613236380,
         "apparentTemperatureMin": 5.85,
         "apparentTemperatureMinTime": 1613197320,
-        "apparentTemperatureMax": 14.59,
-        "apparentTemperatureMaxTime": 1613233920
+        "apparentTemperatureMax": 14.58,
+        "apparentTemperatureMaxTime": 1613233980
       },
       {
         "time": 1613257200,
@@ -1723,13 +1657,13 @@
         "precipProbability": 0.15,
         "precipType": "snow",
         "precipAccumulation": 1.19,
-        "temperatureHigh": 33.63,
+        "temperatureHigh": 33.62,
         "temperatureHighTime": 1613318580,
         "temperatureLow": 30.26,
         "temperatureLowTime": 1613335560,
-        "apparentTemperatureHigh": 20.16,
+        "apparentTemperatureHigh": 20.15,
         "apparentTemperatureHighTime": 1613318160,
-        "apparentTemperatureLow": 17.1,
+        "apparentTemperatureLow": 17.09,
         "apparentTemperatureLowTime": 1613335020,
         "dewPoint": 21.54,
         "humidity": 0.72,
@@ -1745,11 +1679,11 @@
         "ozone": 355.1,
         "temperatureMin": 26.21,
         "temperatureMinTime": 1613289240,
-        "temperatureMax": 33.63,
+        "temperatureMax": 33.62,
         "temperatureMaxTime": 1613318580,
         "apparentTemperatureMin": 11.44,
         "apparentTemperatureMinTime": 1613288880,
-        "apparentTemperatureMax": 20.16,
+        "apparentTemperatureMax": 20.15,
         "apparentTemperatureMaxTime": 1613318160
       },
       {
@@ -1764,15 +1698,15 @@
         "precipIntensityMaxTime": 1613413560,
         "precipProbability": 0.28,
         "precipType": "rain",
-        "temperatureHigh": 39.38,
+        "temperatureHigh": 39.37,
         "temperatureHighTime": 1613405280,
-        "temperatureLow": 38.02,
+        "temperatureLow": 38.01,
         "temperatureLowTime": 1613412240,
-        "apparentTemperatureHigh": 28.43,
-        "apparentTemperatureHighTime": 1613398920,
-        "apparentTemperatureLow": 27.13,
+        "apparentTemperatureHigh": 28.42,
+        "apparentTemperatureHighTime": 1613398860,
+        "apparentTemperatureLow": 27.12,
         "apparentTemperatureLowTime": 1613412900,
-        "dewPoint": 31.45,
+        "dewPoint": 31.46,
         "humidity": 0.81,
         "pressure": 1022.2,
         "windSpeed": 22.08,
@@ -1784,11 +1718,11 @@
         "uvIndexTime": 1613390640,
         "visibility": 10,
         "ozone": 361.1,
-        "temperatureMin": 31.63,
+        "temperatureMin": 31.62,
         "temperatureMinTime": 1613343600,
-        "temperatureMax": 40.76,
+        "temperatureMax": 40.75,
         "temperatureMaxTime": 1613426520,
-        "apparentTemperatureMin": 19.35,
+        "apparentTemperatureMin": 19.34,
         "apparentTemperatureMinTime": 1613343600,
         "apparentTemperatureMax": 29.36,
         "apparentTemperatureMaxTime": 1613426700

@@ -16,32 +16,8 @@
           "name": "Zeebrugge"
         },
         "requestPointDistance": 16878.7856,
-        "modelRunDate": "2022-01-30T17:00Z",
+        "modelRunDate": "2022-01-30T18:00Z",
         "timeSeries": [
-          {
-            "time": "2022-01-30T15:00Z",
-            "maxScreenAirTemp": 6.91,
-            "minScreenAirTemp": 6.52,
-            "max10mWindGust": 6.8,
-            "significantWeatherCode": 1,
-            "totalPrecipAmount": 0,
-            "totalSnowAmount": 0,
-            "windSpeed10m": 3.01,
-            "windDirectionFrom10m": 253,
-            "windGustSpeed10m": 5.06,
-            "visibility": 29106,
-            "mslp": 102970,
-            "screenRelativeHumidity": 72.86,
-            "feelsLikeTemp": 4.34,
-            "uvIndex": 1,
-            "probOfPrecipitation": 0,
-            "probOfSnow": 0,
-            "probOfHeavySnow": 0,
-            "probOfRain": 0,
-            "probOfHeavyRain": 0,
-            "probOfHail": 0,
-            "probOfSferics": 0
-          },
           {
             "time": "2022-01-30T18:00Z",
             "maxScreenAirTemp": 6.52,
@@ -102,7 +78,7 @@
             "windDirectionFrom10m": 229,
             "windGustSpeed10m": 15.11,
             "visibility": 5529,
-            "mslp": 101663,
+            "mslp": 101660,
             "screenRelativeHumidity": 89.82,
             "feelsLikeTemp": 0.37,
             "uvIndex": 0,
@@ -1385,6 +1361,30 @@
             "probOfHeavyRain": 5,
             "probOfHail": 0,
             "probOfSferics": 1
+          },
+          {
+            "time": "2022-02-06T18:00Z",
+            "maxScreenAirTemp": 7.7,
+            "minScreenAirTemp": 7.41,
+            "max10mWindGust": 17.16,
+            "significantWeatherCode": 7,
+            "totalPrecipAmount": 0,
+            "totalSnowAmount": 0,
+            "windSpeed10m": 9.63,
+            "windDirectionFrom10m": 280,
+            "windGustSpeed10m": 14.74,
+            "visibility": 23716,
+            "mslp": 102023,
+            "screenRelativeHumidity": 81.56,
+            "feelsLikeTemp": 3.18,
+            "uvIndex": 0,
+            "probOfPrecipitation": 10,
+            "probOfSnow": 0,
+            "probOfHeavySnow": 0,
+            "probOfRain": 10,
+            "probOfHeavyRain": 4,
+            "probOfHail": 0,
+            "probOfSferics": 0
           }
         ]
       }

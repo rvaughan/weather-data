@@ -1425,17 +1425,6 @@
           }
         }
       },
-      "probOfHeavyRain": {
-        "type": "Parameter",
-        "description": "Three Hour Probability of Heavy Rain",
-        "unit": {
-          "label": "percentage",
-          "symbol": {
-            "value": "http://www.opengis.net/def/uom/UCUM/",
-            "type": "%"
-          }
-        }
-      },
       "windDirectionFrom10m": {
         "type": "Parameter",
         "description": "10m Wind From Direction Over Previous Three Hours",
@@ -1444,6 +1433,17 @@
           "symbol": {
             "value": "http://www.opengis.net/def/uom/UCUM/",
             "type": "deg"
+          }
+        }
+      },
+      "probOfHeavyRain": {
+        "type": "Parameter",
+        "description": "Three Hour Probability of Heavy Rain",
+        "unit": {
+          "label": "percentage",
+          "symbol": {
+            "value": "http://www.opengis.net/def/uom/UCUM/",
+            "type": "%"
           }
         }
       },
@@ -1491,17 +1491,6 @@
           }
         }
       },
-      "probOfPrecipitation": {
-        "type": "Parameter",
-        "description": "Three Hour Probability of Precipitation",
-        "unit": {
-          "label": "percentage",
-          "symbol": {
-            "value": "http://www.opengis.net/def/uom/UCUM/",
-            "type": "%"
-          }
-        }
-      },
       "windSpeed10m": {
         "type": "Parameter",
         "description": "10m Wind Speed Over Previous Three Hours",
@@ -1510,6 +1499,17 @@
           "symbol": {
             "value": "http://www.opengis.net/def/uom/UCUM/",
             "type": "m/s"
+          }
+        }
+      },
+      "probOfPrecipitation": {
+        "type": "Parameter",
+        "description": "Three Hour Probability of Precipitation",
+        "unit": {
+          "label": "percentage",
+          "symbol": {
+            "value": "http://www.opengis.net/def/uom/UCUM/",
+            "type": "%"
           }
         }
       },
@@ -1557,17 +1557,6 @@
           }
         }
       },
-      "totalPrecipAmount": {
-        "type": "Parameter",
-        "description": "Total Precipitation Amount Over Previous Three Hours",
-        "unit": {
-          "label": "millimetres",
-          "symbol": {
-            "value": "http://www.opengis.net/def/uom/UCUM/",
-            "type": "mm"
-          }
-        }
-      },
       "minScreenAirTemp": {
         "type": "Parameter",
         "description": "Minimum Screen Air Temperature Over Previous Three Hours",
@@ -1576,6 +1565,17 @@
           "symbol": {
             "value": "http://www.opengis.net/def/uom/UCUM/",
             "type": "Cel"
+          }
+        }
+      },
+      "totalPrecipAmount": {
+        "type": "Parameter",
+        "description": "Total Precipitation Amount Over Previous Three Hours",
+        "unit": {
+          "label": "millimetres",
+          "symbol": {
+            "value": "http://www.opengis.net/def/uom/UCUM/",
+            "type": "mm"
           }
         }
       },
@@ -1601,17 +1601,6 @@
           }
         }
       },
-      "probOfSnow": {
-        "type": "Parameter",
-        "description": "Three Hour Probability of Snow",
-        "unit": {
-          "label": "percentage",
-          "symbol": {
-            "value": "http://www.opengis.net/def/uom/UCUM/",
-            "type": "%"
-          }
-        }
-      },
       "uvIndex": {
         "type": "Parameter",
         "description": "Maximum UV Index Over Previous Three Hours",
@@ -1620,6 +1609,17 @@
           "symbol": {
             "value": "http://www.opengis.net/def/uom/UCUM/",
             "type": "1"
+          }
+        }
+      },
+      "probOfSnow": {
+        "type": "Parameter",
+        "description": "Three Hour Probability of Snow",
+        "unit": {
+          "label": "percentage",
+          "symbol": {
+            "value": "http://www.opengis.net/def/uom/UCUM/",
+            "type": "%"
           }
         }
       }

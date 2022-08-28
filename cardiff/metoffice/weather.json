@@ -16,32 +16,8 @@
           "name": "Zeebrugge"
         },
         "requestPointDistance": 16878.7856,
-        "modelRunDate": "2022-08-28T05:00Z",
+        "modelRunDate": "2022-08-28T06:00Z",
         "timeSeries": [
-          {
-            "time": "2022-08-28T03:00Z",
-            "maxScreenAirTemp": 18.24,
-            "minScreenAirTemp": 16.68,
-            "max10mWindGust": 9.34,
-            "significantWeatherCode": 2,
-            "totalPrecipAmount": 0,
-            "totalSnowAmount": 0,
-            "windSpeed10m": 5.41,
-            "windDirectionFrom10m": 65,
-            "windGustSpeed10m": 9.08,
-            "visibility": 25916,
-            "mslp": 102000,
-            "screenRelativeHumidity": 75.55,
-            "feelsLikeTemp": 14.59,
-            "uvIndex": 0,
-            "probOfPrecipitation": 0,
-            "probOfSnow": 0,
-            "probOfHeavySnow": 0,
-            "probOfRain": 0,
-            "probOfHeavyRain": 0,
-            "probOfHail": 0,
-            "probOfSferics": 0
-          },
           {
             "time": "2022-08-28T06:00Z",
             "maxScreenAirTemp": 16.68,
@@ -1385,6 +1361,30 @@
             "probOfHeavyRain": 4,
             "probOfHail": 1,
             "probOfSferics": 1
+          },
+          {
+            "time": "2022-09-04T06:00Z",
+            "maxScreenAirTemp": 16.04,
+            "minScreenAirTemp": 15.44,
+            "max10mWindGust": 10.25,
+            "significantWeatherCode": 7,
+            "totalPrecipAmount": 0,
+            "totalSnowAmount": 0,
+            "windSpeed10m": 5.79,
+            "windDirectionFrom10m": 177,
+            "windGustSpeed10m": 9.45,
+            "visibility": 21383,
+            "mslp": 101038,
+            "screenRelativeHumidity": 77.76,
+            "feelsLikeTemp": 13.38,
+            "uvIndex": 1,
+            "probOfPrecipitation": 11,
+            "probOfSnow": 0,
+            "probOfHeavySnow": 0,
+            "probOfRain": 11,
+            "probOfHeavyRain": 6,
+            "probOfHail": 1,
+            "probOfSferics": 2
           }
         ]
       }

@@ -16,32 +16,8 @@
           "name": "Zeebrugge"
         },
         "requestPointDistance": 16878.7856,
-        "modelRunDate": "2022-08-31T17:00Z",
+        "modelRunDate": "2022-08-31T18:00Z",
         "timeSeries": [
-          {
-            "time": "2022-08-31T15:00Z",
-            "maxScreenAirTemp": 21.83,
-            "minScreenAirTemp": 20.82,
-            "max10mWindGust": 14.37,
-            "significantWeatherCode": 1,
-            "totalPrecipAmount": 0,
-            "totalSnowAmount": 0,
-            "windSpeed10m": 9.71,
-            "windDirectionFrom10m": 35,
-            "windGustSpeed10m": 14.26,
-            "visibility": 28560,
-            "mslp": 102070,
-            "screenRelativeHumidity": 53.02,
-            "feelsLikeTemp": 16.46,
-            "uvIndex": 2,
-            "probOfPrecipitation": 1,
-            "probOfSnow": 0,
-            "probOfHeavySnow": 0,
-            "probOfRain": 1,
-            "probOfHeavyRain": 0,
-            "probOfHail": 0,
-            "probOfSferics": 0
-          },
           {
             "time": "2022-08-31T18:00Z",
             "maxScreenAirTemp": 22.23,
@@ -93,7 +69,7 @@
           {
             "time": "2022-09-01T00:00Z",
             "maxScreenAirTemp": 20.51,
-            "minScreenAirTemp": 18.7,
+            "minScreenAirTemp": 18.71,
             "max10mWindGust": 10.9,
             "significantWeatherCode": 0,
             "totalPrecipAmount": 0,
@@ -102,7 +78,7 @@
             "windDirectionFrom10m": 64,
             "windGustSpeed10m": 10.39,
             "visibility": 29637,
-            "mslp": 102085,
+            "mslp": 102080,
             "screenRelativeHumidity": 57.51,
             "feelsLikeTemp": 15.44,
             "uvIndex": 0,
@@ -1385,6 +1361,30 @@
             "probOfHeavyRain": 19,
             "probOfHail": 1,
             "probOfSferics": 5
+          },
+          {
+            "time": "2022-09-07T18:00Z",
+            "maxScreenAirTemp": 20.49,
+            "minScreenAirTemp": 19.19,
+            "max10mWindGust": 10.77,
+            "significantWeatherCode": 1,
+            "totalPrecipAmount": 0,
+            "totalSnowAmount": 0,
+            "windSpeed10m": 4.81,
+            "windDirectionFrom10m": 259,
+            "windGustSpeed10m": 7.77,
+            "visibility": 27080,
+            "mslp": 101009,
+            "screenRelativeHumidity": 68.01,
+            "feelsLikeTemp": 17.39,
+            "uvIndex": 1,
+            "probOfPrecipitation": 10,
+            "probOfSnow": 0,
+            "probOfHeavySnow": 0,
+            "probOfRain": 10,
+            "probOfHeavyRain": 6,
+            "probOfHail": 1,
+            "probOfSferics": 1
           }
         ]
       }

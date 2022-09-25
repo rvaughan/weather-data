@@ -16,32 +16,8 @@
           "name": "Zeebrugge"
         },
         "requestPointDistance": 16878.7856,
-        "modelRunDate": "2022-09-25T05:00Z",
+        "modelRunDate": "2022-09-25T06:00Z",
         "timeSeries": [
-          {
-            "time": "2022-09-25T03:00Z",
-            "maxScreenAirTemp": 15.24,
-            "minScreenAirTemp": 14.67,
-            "max10mWindGust": 8.22,
-            "significantWeatherCode": 2,
-            "totalPrecipAmount": 0,
-            "totalSnowAmount": 0,
-            "windSpeed10m": 5.3,
-            "windDirectionFrom10m": 33,
-            "windGustSpeed10m": 7.92,
-            "visibility": 24116,
-            "mslp": 101680,
-            "screenRelativeHumidity": 81.09,
-            "feelsLikeTemp": 12.62,
-            "uvIndex": 0,
-            "probOfPrecipitation": 1,
-            "probOfSnow": 0,
-            "probOfHeavySnow": 0,
-            "probOfRain": 1,
-            "probOfHeavyRain": 1,
-            "probOfHail": 0,
-            "probOfSferics": 0
-          },
           {
             "time": "2022-09-25T06:00Z",
             "maxScreenAirTemp": 14.68,
@@ -92,7 +68,7 @@
           },
           {
             "time": "2022-09-25T12:00Z",
-            "maxScreenAirTemp": 14.76,
+            "maxScreenAirTemp": 14.75,
             "minScreenAirTemp": 14.05,
             "max10mWindGust": 6.31,
             "significantWeatherCode": 10,
@@ -102,7 +78,7 @@
             "windDirectionFrom10m": 358,
             "windGustSpeed10m": 6.14,
             "visibility": 22201,
-            "mslp": 101695,
+            "mslp": 101700,
             "screenRelativeHumidity": 71.38,
             "feelsLikeTemp": 13.42,
             "uvIndex": 3,
@@ -1385,6 +1361,30 @@
             "probOfHeavyRain": 6,
             "probOfHail": 1,
             "probOfSferics": 1
+          },
+          {
+            "time": "2022-10-02T06:00Z",
+            "maxScreenAirTemp": 14.85,
+            "minScreenAirTemp": 14.69,
+            "max10mWindGust": 14.34,
+            "significantWeatherCode": 7,
+            "totalPrecipAmount": 0,
+            "totalSnowAmount": 0,
+            "windSpeed10m": 8.86,
+            "windDirectionFrom10m": 268,
+            "windGustSpeed10m": 13.51,
+            "visibility": 19455,
+            "mslp": 101069,
+            "screenRelativeHumidity": 85.83,
+            "feelsLikeTemp": 11.23,
+            "uvIndex": 1,
+            "probOfPrecipitation": 11,
+            "probOfSnow": 0,
+            "probOfHeavySnow": 0,
+            "probOfRain": 11,
+            "probOfHeavyRain": 5,
+            "probOfHail": 1,
+            "probOfSferics": 2
           }
         ]
       }

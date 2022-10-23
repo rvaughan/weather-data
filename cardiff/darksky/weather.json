@@ -3,351 +3,77 @@
   "longitude": 3.1791,
   "timezone": "Europe/Amsterdam",
   "currently": {
-    "time": 1666515528,
-    "summary": "Rain",
-    "icon": "rain",
-    "precipIntensity": 0.079,
-    "precipIntensityError": 0.0297,
-    "precipProbability": 1,
-    "precipType": "rain",
-    "temperature": 59.97,
-    "apparentTemperature": 59.97,
-    "dewPoint": 56.55,
+    "time": 1666517667,
+    "summary": "Overcast",
+    "icon": "cloudy",
+    "precipIntensity": 0,
+    "precipProbability": 0,
+    "temperature": 60.28,
+    "apparentTemperature": 60.28,
+    "dewPoint": 56.63,
     "humidity": 0.88,
-    "pressure": 1008,
-    "windSpeed": 17.4,
-    "windGust": 28.57,
-    "windBearing": 154,
+    "pressure": 1007.8,
+    "windSpeed": 18.64,
+    "windGust": 30.46,
+    "windBearing": 158,
     "cloudCover": 1,
     "uvIndex": 1,
-    "visibility": 6.772,
-    "ozone": 296
+    "visibility": 9.457,
+    "ozone": 296.5
   },
   "minutely": {
-    "summary": "Possible light rain stopping in 35 min.",
-    "icon": "rain",
+    "summary": "Overcast for the hour.",
+    "icon": "cloudy",
     "data": [
       {
-        "time": 1666515480,
-        "precipIntensity": 0.0904,
-        "precipIntensityError": 0.0325,
-        "precipProbability": 1,
-        "precipType": "rain"
-      },
-      {
-        "time": 1666515540,
-        "precipIntensity": 0.0764,
-        "precipIntensityError": 0.0295,
-        "precipProbability": 1,
-        "precipType": "rain"
-      },
-      {
-        "time": 1666515600,
-        "precipIntensity": 0.0628,
-        "precipIntensityError": 0.0277,
-        "precipProbability": 1,
-        "precipType": "rain"
-      },
-      {
-        "time": 1666515660,
-        "precipIntensity": 0.0504,
-        "precipIntensityError": 0.0255,
-        "precipProbability": 0.98,
-        "precipType": "rain"
-      },
-      {
-        "time": 1666515720,
-        "precipIntensity": 0.0408,
-        "precipIntensityError": 0.0235,
-        "precipProbability": 0.94,
-        "precipType": "rain"
-      },
-      {
-        "time": 1666515780,
-        "precipIntensity": 0.0332,
-        "precipIntensityError": 0.022,
-        "precipProbability": 0.86,
-        "precipType": "rain"
-      },
-      {
-        "time": 1666515840,
-        "precipIntensity": 0.0287,
-        "precipIntensityError": 0.0199,
-        "precipProbability": 0.73,
-        "precipType": "rain"
-      },
-      {
-        "time": 1666515900,
-        "precipIntensity": 0.0242,
-        "precipIntensityError": 0.018,
-        "precipProbability": 0.57,
-        "precipType": "rain"
-      },
-      {
-        "time": 1666515960,
-        "precipIntensity": 0.0207,
-        "precipIntensityError": 0.0163,
-        "precipProbability": 0.41,
-        "precipType": "rain"
-      },
-      {
-        "time": 1666516020,
-        "precipIntensity": 0.0182,
-        "precipIntensityError": 0.0155,
-        "precipProbability": 0.28,
-        "precipType": "rain"
-      },
-      {
-        "time": 1666516080,
-        "precipIntensity": 0.0171,
-        "precipIntensityError": 0.0147,
-        "precipProbability": 0.18,
-        "precipType": "rain"
-      },
-      {
-        "time": 1666516140,
-        "precipIntensity": 0.0154,
-        "precipIntensityError": 0.0132,
-        "precipProbability": 0.13,
-        "precipType": "rain"
-      },
-      {
-        "time": 1666516200,
-        "precipIntensity": 0.0135,
-        "precipIntensityError": 0.0118,
-        "precipProbability": 0.12,
-        "precipType": "rain"
-      },
-      {
-        "time": 1666516260,
-        "precipIntensity": 0.0123,
-        "precipIntensityError": 0.0102,
-        "precipProbability": 0.15,
-        "precipType": "rain"
-      },
-      {
-        "time": 1666516320,
-        "precipIntensity": 0.0126,
-        "precipIntensityError": 0.0103,
-        "precipProbability": 0.18,
-        "precipType": "rain"
-      },
-      {
-        "time": 1666516380,
-        "precipIntensity": 0.015,
-        "precipIntensityError": 0.0117,
-        "precipProbability": 0.23,
-        "precipType": "rain"
-      },
-      {
-        "time": 1666516440,
-        "precipIntensity": 0.0164,
-        "precipIntensityError": 0.0119,
-        "precipProbability": 0.3,
-        "precipType": "rain"
-      },
-      {
-        "time": 1666516500,
-        "precipIntensity": 0.0181,
-        "precipIntensityError": 0.0126,
-        "precipProbability": 0.35,
-        "precipType": "rain"
-      },
-      {
-        "time": 1666516560,
-        "precipIntensity": 0.0185,
-        "precipIntensityError": 0.0127,
-        "precipProbability": 0.42,
-        "precipType": "rain"
-      },
-      {
-        "time": 1666516620,
-        "precipIntensity": 0.0189,
-        "precipIntensityError": 0.013,
-        "precipProbability": 0.48,
-        "precipType": "rain"
-      },
-      {
-        "time": 1666516680,
-        "precipIntensity": 0.019,
-        "precipIntensityError": 0.013,
-        "precipProbability": 0.53,
-        "precipType": "rain"
-      },
-      {
-        "time": 1666516740,
-        "precipIntensity": 0.0192,
-        "precipIntensityError": 0.013,
-        "precipProbability": 0.58,
-        "precipType": "rain"
-      },
-      {
-        "time": 1666516800,
-        "precipIntensity": 0.0196,
-        "precipIntensityError": 0.013,
-        "precipProbability": 0.6,
-        "precipType": "rain"
-      },
-      {
-        "time": 1666516860,
-        "precipIntensity": 0.0188,
-        "precipIntensityError": 0.0131,
-        "precipProbability": 0.64,
-        "precipType": "rain"
-      },
-      {
-        "time": 1666516920,
-        "precipIntensity": 0.0184,
-        "precipIntensityError": 0.0127,
-        "precipProbability": 0.66,
-        "precipType": "rain"
-      },
-      {
-        "time": 1666516980,
-        "precipIntensity": 0.0181,
-        "precipIntensityError": 0.0126,
-        "precipProbability": 0.65,
-        "precipType": "rain"
-      },
-      {
-        "time": 1666517040,
-        "precipIntensity": 0.0178,
-        "precipIntensityError": 0.0125,
-        "precipProbability": 0.64,
-        "precipType": "rain"
-      },
-      {
-        "time": 1666517100,
-        "precipIntensity": 0.0172,
-        "precipIntensityError": 0.0125,
-        "precipProbability": 0.6,
-        "precipType": "rain"
-      },
-      {
-        "time": 1666517160,
-        "precipIntensity": 0.0169,
-        "precipIntensityError": 0.0123,
-        "precipProbability": 0.56,
-        "precipType": "rain"
-      },
-      {
-        "time": 1666517220,
-        "precipIntensity": 0.0163,
-        "precipIntensityError": 0.0121,
-        "precipProbability": 0.51,
-        "precipType": "rain"
-      },
-      {
-        "time": 1666517280,
-        "precipIntensity": 0.0159,
-        "precipIntensityError": 0.0118,
-        "precipProbability": 0.45,
-        "precipType": "rain"
-      },
-      {
-        "time": 1666517340,
-        "precipIntensity": 0.0157,
-        "precipIntensityError": 0.0119,
-        "precipProbability": 0.4,
-        "precipType": "rain"
-      },
-      {
-        "time": 1666517400,
-        "precipIntensity": 0.0156,
-        "precipIntensityError": 0.0119,
-        "precipProbability": 0.35,
-        "precipType": "rain"
-      },
-      {
-        "time": 1666517460,
-        "precipIntensity": 0.0151,
-        "precipIntensityError": 0.0116,
-        "precipProbability": 0.29,
-        "precipType": "rain"
-      },
-      {
-        "time": 1666517520,
-        "precipIntensity": 0.0145,
-        "precipIntensityError": 0.0117,
-        "precipProbability": 0.25,
-        "precipType": "rain"
-      },
-      {
-        "time": 1666517580,
-        "precipIntensity": 0.0141,
-        "precipIntensityError": 0.0114,
-        "precipProbability": 0.2,
-        "precipType": "rain"
-      },
-      {
         "time": 1666517640,
-        "precipIntensity": 0.0149,
-        "precipIntensityError": 0.0117,
-        "precipProbability": 0.17,
-        "precipType": "rain"
+        "precipIntensity": 0,
+        "precipProbability": 0
       },
       {
         "time": 1666517700,
-        "precipIntensity": 0.0141,
-        "precipIntensityError": 0.0116,
-        "precipProbability": 0.13,
-        "precipType": "rain"
+        "precipIntensity": 0,
+        "precipProbability": 0
       },
       {
         "time": 1666517760,
-        "precipIntensity": 0.0131,
-        "precipIntensityError": 0.0107,
-        "precipProbability": 0.11,
-        "precipType": "rain"
+        "precipIntensity": 0,
+        "precipProbability": 0
       },
       {
         "time": 1666517820,
-        "precipIntensity": 0.0137,
-        "precipIntensityError": 0.0113,
-        "precipProbability": 0.09,
-        "precipType": "rain"
+        "precipIntensity": 0,
+        "precipProbability": 0
       },
       {
         "time": 1666517880,
-        "precipIntensity": 0.0141,
-        "precipIntensityError": 0.012,
-        "precipProbability": 0.07,
-        "precipType": "rain"
+        "precipIntensity": 0,
+        "precipProbability": 0
       },
       {
         "time": 1666517940,
-        "precipIntensity": 0.0137,
-        "precipIntensityError": 0.0112,
-        "precipProbability": 0.06,
-        "precipType": "rain"
+        "precipIntensity": 0,
+        "precipProbability": 0
       },
       {
         "time": 1666518000,
-        "precipIntensity": 0.0132,
-        "precipIntensityError": 0.0109,
-        "precipProbability": 0.04,
-        "precipType": "rain"
+        "precipIntensity": 0,
+        "precipProbability": 0
       },
       {
         "time": 1666518060,
-        "precipIntensity": 0.0136,
-        "precipIntensityError": 0.0116,
-        "precipProbability": 0.03,
-        "precipType": "rain"
+        "precipIntensity": 0,
+        "precipProbability": 0
       },
       {
         "time": 1666518120,
-        "precipIntensity": 0.014,
-        "precipIntensityError": 0.0113,
-        "precipProbability": 0.03,
-        "precipType": "rain"
+        "precipIntensity": 0,
+        "precipProbability": 0
       },
       {
         "time": 1666518180,
-        "precipIntensity": 0.0139,
-        "precipIntensityError": 0.011,
-        "precipProbability": 0.02,
-        "precipType": "rain"
+        "precipIntensity": 0,
+        "precipProbability": 0
       },
       {
         "time": 1666518240,
@@ -356,17 +82,13 @@
       },
       {
         "time": 1666518300,
-        "precipIntensity": 0.0126,
-        "precipIntensityError": 0.0112,
-        "precipProbability": 0.01,
-        "precipType": "rain"
+        "precipIntensity": 0,
+        "precipProbability": 0
       },
       {
         "time": 1666518360,
-        "precipIntensity": 0.0119,
-        "precipIntensityError": 0.0109,
-        "precipProbability": 0.01,
-        "precipType": "rain"
+        "precipIntensity": 0,
+        "precipProbability": 0
       },
       {
         "time": 1666518420,
@@ -427,6 +149,186 @@
         "time": 1666519080,
         "precipIntensity": 0,
         "precipProbability": 0
+      },
+      {
+        "time": 1666519140,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1666519200,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1666519260,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1666519320,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1666519380,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1666519440,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1666519500,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1666519560,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1666519620,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1666519680,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1666519740,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1666519800,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1666519860,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1666519920,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1666519980,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1666520040,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1666520100,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1666520160,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1666520220,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1666520280,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1666520340,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1666520400,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1666520460,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1666520520,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1666520580,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1666520640,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1666520700,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1666520760,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1666520820,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1666520880,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1666520940,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1666521000,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1666521060,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1666521120,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1666521180,
+        "precipIntensity": 0,
+        "precipProbability": 0
+      },
+      {
+        "time": 1666521240,
+        "precipIntensity": 0,
+        "precipProbability": 0
       }
     ]
   },
@@ -435,31 +337,11 @@
     "icon": "rain",
     "data": [
       {
-        "time": 1666512000,
+        "time": 1666515600,
         "summary": "Overcast",
         "icon": "cloudy",
-        "precipIntensity": 0.0058,
-        "precipProbability": 0.16,
-        "precipType": "rain",
-        "temperature": 59.8,
-        "apparentTemperature": 59.8,
-        "dewPoint": 55.91,
-        "humidity": 0.87,
-        "pressure": 1008.5,
-        "windSpeed": 16.93,
-        "windGust": 26.92,
-        "windBearing": 145,
-        "cloudCover": 1,
-        "uvIndex": 0,
-        "visibility": 10,
-        "ozone": 297.1
-      },
-      {
-        "time": 1666515600,
-        "summary": "Light Rain",
-        "icon": "rain",
-        "precipIntensity": 0.0183,
-        "precipProbability": 1,
+        "precipIntensity": 0.0098,
+        "precipProbability": 0.19,
         "precipType": "rain",
         "temperature": 59.97,
         "apparentTemperature": 59.97,
@@ -476,14 +358,14 @@
       },
       {
         "time": 1666519200,
-        "summary": "Possible Drizzle",
-        "icon": "rain",
-        "precipIntensity": 0.0083,
-        "precipProbability": 0.29,
+        "summary": "Overcast",
+        "icon": "cloudy",
+        "precipIntensity": 0.0005,
+        "precipProbability": 0.17,
         "precipType": "rain",
         "temperature": 60.52,
         "apparentTemperature": 60.52,
-        "dewPoint": 56.71,
+        "dewPoint": 56.69,
         "humidity": 0.87,
         "pressure": 1007.6,
         "windSpeed": 19.3,
@@ -498,12 +380,12 @@
         "time": 1666522800,
         "summary": "Overcast",
         "icon": "cloudy",
-        "precipIntensity": 0.0115,
+        "precipIntensity": 0.0107,
         "precipProbability": 0.2,
         "precipType": "rain",
         "temperature": 60.97,
         "apparentTemperature": 60.97,
-        "dewPoint": 57.25,
+        "dewPoint": 57.23,
         "humidity": 0.88,
         "pressure": 1007.1,
         "windSpeed": 18.16,
@@ -523,7 +405,7 @@
         "precipType": "rain",
         "temperature": 61.62,
         "apparentTemperature": 61.62,
-        "dewPoint": 57.91,
+        "dewPoint": 57.89,
         "humidity": 0.88,
         "pressure": 1006.5,
         "windSpeed": 19.23,
@@ -543,7 +425,7 @@
         "precipType": "rain",
         "temperature": 63.12,
         "apparentTemperature": 63.12,
-        "dewPoint": 58.29,
+        "dewPoint": 58.27,
         "humidity": 0.84,
         "pressure": 1005.7,
         "windSpeed": 19.58,
@@ -563,7 +445,7 @@
         "precipType": "rain",
         "temperature": 64.33,
         "apparentTemperature": 64.33,
-        "dewPoint": 58.18,
+        "dewPoint": 58.16,
         "humidity": 0.8,
         "pressure": 1004.7,
         "windSpeed": 19.25,
@@ -583,7 +465,7 @@
         "precipType": "rain",
         "temperature": 65.28,
         "apparentTemperature": 65.28,
-        "dewPoint": 58.09,
+        "dewPoint": 58.07,
         "humidity": 0.78,
         "pressure": 1004.4,
         "windSpeed": 19.37,
@@ -601,9 +483,9 @@
         "precipIntensity": 0.0016,
         "precipProbability": 0.1,
         "precipType": "rain",
-        "temperature": 65.42,
-        "apparentTemperature": 65.42,
-        "dewPoint": 57.91,
+        "temperature": 65.41,
+        "apparentTemperature": 65.41,
+        "dewPoint": 57.9,
         "humidity": 0.77,
         "pressure": 1003.9,
         "windSpeed": 18.17,
@@ -621,9 +503,9 @@
         "precipIntensity": 0.0031,
         "precipProbability": 0.11,
         "precipType": "rain",
-        "temperature": 63.56,
-        "apparentTemperature": 63.56,
-        "dewPoint": 57.57,
+        "temperature": 63.55,
+        "apparentTemperature": 63.55,
+        "dewPoint": 57.55,
         "humidity": 0.81,
         "pressure": 1004.4,
         "windSpeed": 21.16,
@@ -643,7 +525,7 @@
         "precipType": "rain",
         "temperature": 62.17,
         "apparentTemperature": 62.17,
-        "dewPoint": 56.23,
+        "dewPoint": 56.21,
         "humidity": 0.81,
         "pressure": 1004.6,
         "windSpeed": 23.37,
@@ -663,7 +545,7 @@
         "precipType": "rain",
         "temperature": 61.53,
         "apparentTemperature": 61.53,
-        "dewPoint": 55.73,
+        "dewPoint": 55.71,
         "humidity": 0.81,
         "pressure": 1004.9,
         "windSpeed": 22.35,
@@ -683,7 +565,7 @@
         "precipType": "rain",
         "temperature": 61.23,
         "apparentTemperature": 61.23,
-        "dewPoint": 55.09,
+        "dewPoint": 55.07,
         "humidity": 0.8,
         "pressure": 1005,
         "windSpeed": 19.6,
@@ -703,7 +585,7 @@
         "precipType": "rain",
         "temperature": 61,
         "apparentTemperature": 61,
-        "dewPoint": 54.66,
+        "dewPoint": 54.63,
         "humidity": 0.8,
         "pressure": 1004.9,
         "windSpeed": 20.19,
@@ -721,8 +603,8 @@
         "precipIntensity": 0.0013,
         "precipProbability": 0.08,
         "precipType": "rain",
-        "temperature": 60.91,
-        "apparentTemperature": 60.91,
+        "temperature": 60.98,
+        "apparentTemperature": 60.98,
         "dewPoint": 54.35,
         "humidity": 0.79,
         "pressure": 1004.7,
@@ -741,9 +623,9 @@
         "precipIntensity": 0.0011,
         "precipProbability": 0.09,
         "precipType": "rain",
-        "temperature": 60.61,
-        "apparentTemperature": 60.61,
-        "dewPoint": 54.11,
+        "temperature": 60.6,
+        "apparentTemperature": 60.6,
+        "dewPoint": 54.09,
         "humidity": 0.79,
         "pressure": 1004.4,
         "windSpeed": 21.57,
@@ -761,9 +643,9 @@
         "precipIntensity": 0.0009,
         "precipProbability": 0.07,
         "precipType": "rain",
-        "temperature": 60.9,
-        "apparentTemperature": 60.9,
-        "dewPoint": 53.22,
+        "temperature": 60.89,
+        "apparentTemperature": 60.89,
+        "dewPoint": 53.2,
         "humidity": 0.76,
         "pressure": 1004.5,
         "windSpeed": 23.13,
@@ -783,7 +665,7 @@
         "precipType": "rain",
         "temperature": 60.97,
         "apparentTemperature": 60.97,
-        "dewPoint": 53.51,
+        "dewPoint": 53.49,
         "humidity": 0.76,
         "pressure": 1004.1,
         "windSpeed": 24.96,
@@ -803,7 +685,7 @@
         "precipType": "rain",
         "temperature": 61.07,
         "apparentTemperature": 61.07,
-        "dewPoint": 53.88,
+        "dewPoint": 53.86,
         "humidity": 0.77,
         "pressure": 1004,
         "windSpeed": 27.31,
@@ -823,7 +705,7 @@
         "precipType": "rain",
         "temperature": 60.99,
         "apparentTemperature": 60.99,
-        "dewPoint": 53.99,
+        "dewPoint": 53.97,
         "humidity": 0.78,
         "pressure": 1003.7,
         "windSpeed": 29.3,
@@ -843,7 +725,7 @@
         "precipType": "rain",
         "temperature": 60.75,
         "apparentTemperature": 60.75,
-        "dewPoint": 54.06,
+        "dewPoint": 54.05,
         "humidity": 0.79,
         "pressure": 1004,
         "windSpeed": 30.82,
@@ -863,7 +745,7 @@
         "precipType": "rain",
         "temperature": 60.46,
         "apparentTemperature": 60.46,
-        "dewPoint": 54.5,
+        "dewPoint": 54.49,
         "humidity": 0.81,
         "pressure": 1004.3,
         "windSpeed": 31.57,
@@ -881,9 +763,9 @@
         "precipIntensity": 0.0047,
         "precipProbability": 0.15,
         "precipType": "rain",
-        "temperature": 59.98,
-        "apparentTemperature": 59.98,
-        "dewPoint": 54.55,
+        "temperature": 59.97,
+        "apparentTemperature": 59.97,
+        "dewPoint": 54.54,
         "humidity": 0.82,
         "pressure": 1004.4,
         "windSpeed": 32.21,
@@ -903,7 +785,7 @@
         "precipType": "rain",
         "temperature": 59.91,
         "apparentTemperature": 59.91,
-        "dewPoint": 54.83,
+        "dewPoint": 54.82,
         "humidity": 0.83,
         "pressure": 1004.9,
         "windSpeed": 33.3,
@@ -921,9 +803,9 @@
         "precipIntensity": 0.0054,
         "precipProbability": 0.15,
         "precipType": "rain",
-        "temperature": 59.84,
-        "apparentTemperature": 59.84,
-        "dewPoint": 54.86,
+        "temperature": 59.83,
+        "apparentTemperature": 59.83,
+        "dewPoint": 54.85,
         "humidity": 0.84,
         "pressure": 1005.7,
         "windSpeed": 33.66,
@@ -943,7 +825,7 @@
         "precipType": "rain",
         "temperature": 60.31,
         "apparentTemperature": 60.31,
-        "dewPoint": 55.37,
+        "dewPoint": 55.35,
         "humidity": 0.84,
         "pressure": 1006.5,
         "windSpeed": 33.42,
@@ -963,7 +845,7 @@
         "precipType": "rain",
         "temperature": 60.71,
         "apparentTemperature": 60.71,
-        "dewPoint": 55.77,
+        "dewPoint": 55.76,
         "humidity": 0.84,
         "pressure": 1007.2,
         "windSpeed": 32.38,
@@ -983,7 +865,7 @@
         "precipType": "rain",
         "temperature": 61.15,
         "apparentTemperature": 61.15,
-        "dewPoint": 55.37,
+        "dewPoint": 55.36,
         "humidity": 0.81,
         "pressure": 1007.9,
         "windSpeed": 30.35,
@@ -1003,7 +885,7 @@
         "precipType": "rain",
         "temperature": 61.06,
         "apparentTemperature": 61.06,
-        "dewPoint": 55.17,
+        "dewPoint": 55.15,
         "humidity": 0.81,
         "pressure": 1007.9,
         "windSpeed": 29.23,
@@ -1023,7 +905,7 @@
         "precipType": "rain",
         "temperature": 60.87,
         "apparentTemperature": 60.87,
-        "dewPoint": 55.08,
+        "dewPoint": 55.06,
         "humidity": 0.81,
         "pressure": 1008.2,
         "windSpeed": 27.19,
@@ -1043,7 +925,7 @@
         "precipType": "rain",
         "temperature": 60.68,
         "apparentTemperature": 60.68,
-        "dewPoint": 55.22,
+        "dewPoint": 55.2,
         "humidity": 0.82,
         "pressure": 1008.2,
         "windSpeed": 25.33,
@@ -1063,7 +945,7 @@
         "precipType": "rain",
         "temperature": 60.69,
         "apparentTemperature": 60.69,
-        "dewPoint": 55.19,
+        "dewPoint": 55.18,
         "humidity": 0.82,
         "pressure": 1008.3,
         "windSpeed": 24.55,
@@ -1083,7 +965,7 @@
         "precipType": "rain",
         "temperature": 60.57,
         "apparentTemperature": 60.57,
-        "dewPoint": 55.06,
+        "dewPoint": 55.04,
         "humidity": 0.82,
         "pressure": 1008.5,
         "windSpeed": 24.1,
@@ -1103,7 +985,7 @@
         "precipType": "rain",
         "temperature": 59.98,
         "apparentTemperature": 59.98,
-        "dewPoint": 55.09,
+        "dewPoint": 55.08,
         "humidity": 0.84,
         "pressure": 1008.9,
         "windSpeed": 24.14,
@@ -1123,7 +1005,7 @@
         "precipType": "rain",
         "temperature": 59.69,
         "apparentTemperature": 59.69,
-        "dewPoint": 55.08,
+        "dewPoint": 55.06,
         "humidity": 0.85,
         "pressure": 1009.2,
         "windSpeed": 23.57,
@@ -1143,7 +1025,7 @@
         "precipType": "rain",
         "temperature": 59.83,
         "apparentTemperature": 59.83,
-        "dewPoint": 54.71,
+        "dewPoint": 54.69,
         "humidity": 0.83,
         "pressure": 1009.6,
         "windSpeed": 25.85,
@@ -1163,7 +1045,7 @@
         "precipType": "rain",
         "temperature": 59.75,
         "apparentTemperature": 59.75,
-        "dewPoint": 54.51,
+        "dewPoint": 54.49,
         "humidity": 0.83,
         "pressure": 1010,
         "windSpeed": 25.74,
@@ -1183,7 +1065,7 @@
         "precipType": "rain",
         "temperature": 59.6,
         "apparentTemperature": 59.6,
-        "dewPoint": 54.36,
+        "dewPoint": 54.34,
         "humidity": 0.83,
         "pressure": 1010.6,
         "windSpeed": 24.6,
@@ -1203,7 +1085,7 @@
         "precipType": "rain",
         "temperature": 59.36,
         "apparentTemperature": 59.36,
-        "dewPoint": 54.49,
+        "dewPoint": 54.47,
         "humidity": 0.84,
         "pressure": 1011.1,
         "windSpeed": 22.94,
@@ -1223,7 +1105,7 @@
         "precipType": "rain",
         "temperature": 58.79,
         "apparentTemperature": 58.79,
-        "dewPoint": 54.16,
+        "dewPoint": 54.14,
         "humidity": 0.85,
         "pressure": 1011.6,
         "windSpeed": 21.64,
@@ -1241,10 +1123,10 @@
         "precipIntensity": 0.0048,
         "precipProbability": 0.16,
         "precipType": "rain",
-        "temperature": 58.93,
-        "apparentTemperature": 58.93,
-        "dewPoint": 53.94,
-        "humidity": 0.84,
+        "temperature": 58.92,
+        "apparentTemperature": 58.92,
+        "dewPoint": 53.92,
+        "humidity": 0.83,
         "pressure": 1012.3,
         "windSpeed": 23.2,
         "windGust": 32,
@@ -1263,7 +1145,7 @@
         "precipType": "rain",
         "temperature": 58.92,
         "apparentTemperature": 58.92,
-        "dewPoint": 54.2,
+        "dewPoint": 54.18,
         "humidity": 0.84,
         "pressure": 1012.7,
         "windSpeed": 23.41,
@@ -1283,7 +1165,7 @@
         "precipType": "rain",
         "temperature": 58.55,
         "apparentTemperature": 58.55,
-        "dewPoint": 54.51,
+        "dewPoint": 54.49,
         "humidity": 0.86,
         "pressure": 1012.9,
         "windSpeed": 22.83,
@@ -1301,9 +1183,9 @@
         "precipIntensity": 0.0045,
         "precipProbability": 0.16,
         "precipType": "rain",
-        "temperature": 58.34,
-        "apparentTemperature": 58.34,
-        "dewPoint": 54.57,
+        "temperature": 58.33,
+        "apparentTemperature": 58.33,
+        "dewPoint": 54.55,
         "humidity": 0.87,
         "pressure": 1013.1,
         "windSpeed": 21.51,
@@ -1321,9 +1203,9 @@
         "precipIntensity": 0.0056,
         "precipProbability": 0.19,
         "precipType": "rain",
-        "temperature": 58.1,
-        "apparentTemperature": 58.1,
-        "dewPoint": 54.84,
+        "temperature": 58.09,
+        "apparentTemperature": 58.09,
+        "dewPoint": 54.82,
         "humidity": 0.89,
         "pressure": 1013.4,
         "windSpeed": 20.33,
@@ -1341,9 +1223,9 @@
         "precipIntensity": 0.011,
         "precipProbability": 0.31,
         "precipType": "rain",
-        "temperature": 57.53,
-        "apparentTemperature": 57.53,
-        "dewPoint": 54.97,
+        "temperature": 57.52,
+        "apparentTemperature": 57.52,
+        "dewPoint": 54.96,
         "humidity": 0.91,
         "pressure": 1013.7,
         "windSpeed": 19.4,
@@ -1363,7 +1245,7 @@
         "precipType": "rain",
         "temperature": 57.1,
         "apparentTemperature": 57.1,
-        "dewPoint": 55.19,
+        "dewPoint": 55.18,
         "humidity": 0.93,
         "pressure": 1013.4,
         "windSpeed": 19.02,
@@ -1383,7 +1265,7 @@
         "precipType": "rain",
         "temperature": 57.07,
         "apparentTemperature": 57.07,
-        "dewPoint": 55.05,
+        "dewPoint": 55.04,
         "humidity": 0.93,
         "pressure": 1013.8,
         "windSpeed": 19.29,
@@ -1403,7 +1285,7 @@
         "precipType": "rain",
         "temperature": 57.33,
         "apparentTemperature": 57.33,
-        "dewPoint": 54.7,
+        "dewPoint": 54.68,
         "humidity": 0.91,
         "pressure": 1014.4,
         "windSpeed": 18.55,
@@ -1413,6 +1295,26 @@
         "uvIndex": 0,
         "visibility": 10,
         "ozone": 275.4
+      },
+      {
+        "time": 1666688400,
+        "summary": "Overcast",
+        "icon": "cloudy",
+        "precipIntensity": 0.0012,
+        "precipProbability": 0.06,
+        "precipType": "rain",
+        "temperature": 57.92,
+        "apparentTemperature": 57.92,
+        "dewPoint": 55.06,
+        "humidity": 0.9,
+        "pressure": 1014.8,
+        "windSpeed": 17.33,
+        "windGust": 21.63,
+        "windBearing": 214,
+        "cloudCover": 0.95,
+        "uvIndex": 1,
+        "visibility": 10,
+        "ozone": 273.7
       }
     ]
   },
@@ -1432,15 +1334,15 @@
         "precipIntensityMaxTime": 1666522440,
         "precipProbability": 0.56,
         "precipType": "rain",
-        "temperatureHigh": 66.05,
+        "temperatureHigh": 66.04,
         "temperatureHighTime": 1666539600,
         "temperatureLow": 59.97,
         "temperatureLowTime": 1666587600,
-        "apparentTemperatureHigh": 65.55,
+        "apparentTemperatureHigh": 65.54,
         "apparentTemperatureHighTime": 1666539600,
         "apparentTemperatureLow": 60.46,
         "apparentTemperatureLowTime": 1666587600,
-        "dewPoint": 55.81,
+        "dewPoint": 55.8,
         "humidity": 0.84,
         "pressure": 1007.9,
         "windSpeed": 17,
@@ -1454,11 +1356,11 @@
         "ozone": 301,
         "temperatureMin": 57.95,
         "temperatureMinTime": 1666491600,
-        "temperatureMax": 66.05,
+        "temperatureMax": 66.04,
         "temperatureMaxTime": 1666539600,
         "apparentTemperatureMin": 58.44,
         "apparentTemperatureMinTime": 1666491600,
-        "apparentTemperatureMax": 65.55,
+        "apparentTemperatureMax": 65.54,
         "apparentTemperatureMaxTime": 1666539600
       },
       {
@@ -1475,13 +1377,13 @@
         "precipType": "rain",
         "temperatureHigh": 61.67,
         "temperatureHighTime": 1666609920,
-        "temperatureLow": 57.04,
+        "temperatureLow": 57.03,
         "temperatureLowTime": 1666674000,
         "apparentTemperatureHigh": 61.17,
         "apparentTemperatureHighTime": 1666609920,
-        "apparentTemperatureLow": 57.53,
+        "apparentTemperatureLow": 57.52,
         "apparentTemperatureLowTime": 1666674000,
-        "dewPoint": 54.66,
+        "dewPoint": 54.65,
         "humidity": 0.81,
         "pressure": 1006.8,
         "windSpeed": 27.51,
@@ -1522,7 +1424,7 @@
         "apparentTemperatureHighTime": 1666713660,
         "apparentTemperatureLow": 56.71,
         "apparentTemperatureLowTime": 1666740300,
-        "dewPoint": 55.05,
+        "dewPoint": 55.04,
         "humidity": 0.88,
         "pressure": 1013.9,
         "windSpeed": 16.02,
@@ -1557,13 +1459,13 @@
         "precipType": "rain",
         "temperatureHigh": 63.18,
         "temperatureHighTime": 1666800360,
-        "temperatureLow": 57.55,
+        "temperatureLow": 57.56,
         "temperatureLowTime": 1666828620,
         "apparentTemperatureHigh": 62.77,
         "apparentTemperatureHighTime": 1666800240,
-        "apparentTemperatureLow": 58.04,
+        "apparentTemperatureLow": 58.05,
         "apparentTemperatureLowTime": 1666828620,
-        "dewPoint": 57.7,
+        "dewPoint": 57.68,
         "humidity": 0.91,
         "pressure": 1014.7,
         "windSpeed": 14.47,
@@ -1596,7 +1498,7 @@
         "precipIntensityMaxTime": 1666846980,
         "precipProbability": 0.06,
         "precipType": "rain",
-        "temperatureHigh": 65.92,
+        "temperatureHigh": 65.93,
         "temperatureHighTime": 1666886580,
         "temperatureLow": 63.7,
         "temperatureLowTime": 1666933200,
@@ -1604,8 +1506,8 @@
         "apparentTemperatureHighTime": 1666886760,
         "apparentTemperatureLow": 64.39,
         "apparentTemperatureLowTime": 1666933200,
-        "dewPoint": 59.68,
-        "humidity": 0.92,
+        "dewPoint": 59.66,
+        "humidity": 0.91,
         "pressure": 1017.7,
         "windSpeed": 13.82,
         "windGust": 29.6,
@@ -1616,13 +1518,13 @@
         "uvIndexTime": 1666870200,
         "visibility": 10,
         "ozone": 252.1,
-        "temperatureMin": 57.55,
+        "temperatureMin": 57.56,
         "temperatureMinTime": 1666828620,
         "temperatureMax": 66.52,
         "temperatureMaxTime": 1666894020,
-        "apparentTemperatureMin": 58.04,
+        "apparentTemperatureMin": 58.05,
         "apparentTemperatureMinTime": 1666828620,
-        "apparentTemperatureMax": 66.48,
+        "apparentTemperatureMax": 66.47,
         "apparentTemperatureMaxTime": 1666893900
       },
       {
@@ -1637,13 +1539,13 @@
         "precipProbability": 0,
         "temperatureHigh": 67.96,
         "temperatureHighTime": 1666975920,
-        "temperatureLow": 58.33,
+        "temperatureLow": 58.34,
         "temperatureLowTime": 1667014500,
-        "apparentTemperatureHigh": 67.67,
-        "apparentTemperatureHighTime": 1666975860,
+        "apparentTemperatureHigh": 67.66,
+        "apparentTemperatureHighTime": 1666975800,
         "apparentTemperatureLow": 59.51,
-        "apparentTemperatureLowTime": 1667015220,
-        "dewPoint": 60.39,
+        "apparentTemperatureLowTime": 1667015160,
+        "dewPoint": 60.37,
         "humidity": 0.84,
         "pressure": 1016.8,
         "windSpeed": 16.17,
@@ -1661,8 +1563,8 @@
         "temperatureMaxTime": 1666975920,
         "apparentTemperatureMin": 63.93,
         "apparentTemperatureMinTime": 1666945200,
-        "apparentTemperatureMax": 67.67,
-        "apparentTemperatureMaxTime": 1666975860
+        "apparentTemperatureMax": 67.66,
+        "apparentTemperatureMaxTime": 1666975800
       },
       {
         "time": 1666994400,
@@ -1679,13 +1581,13 @@
         "temperatureHigh": 63.29,
         "temperatureHighTime": 1667061780,
         "temperatureLow": 59.02,
-        "temperatureLowTime": 1667090040,
+        "temperatureLowTime": 1667089980,
         "apparentTemperatureHigh": 63.17,
         "apparentTemperatureHighTime": 1667062140,
         "apparentTemperatureLow": 59.83,
         "apparentTemperatureLowTime": 1667090340,
-        "dewPoint": 59.66,
-        "humidity": 0.96,
+        "dewPoint": 59.65,
+        "humidity": 0.95,
         "pressure": 1021,
         "windSpeed": 13.18,
         "windGust": 26.54,
@@ -1696,12 +1598,12 @@
         "uvIndexTime": 1667043120,
         "visibility": 10,
         "ozone": 273,
-        "temperatureMin": 58.33,
+        "temperatureMin": 58.34,
         "temperatureMinTime": 1667014500,
-        "temperatureMax": 64.73,
+        "temperatureMax": 64.72,
         "temperatureMaxTime": 1666994400,
         "apparentTemperatureMin": 59.51,
-        "apparentTemperatureMinTime": 1667015220,
+        "apparentTemperatureMinTime": 1667015160,
         "apparentTemperatureMax": 64.23,
         "apparentTemperatureMaxTime": 1666994400
       },
@@ -1718,14 +1620,14 @@
         "precipProbability": 0.06,
         "precipType": "rain",
         "temperatureHigh": 66.02,
-        "temperatureHighTime": 1667149200,
+        "temperatureHighTime": 1667149140,
         "temperatureLow": 59.23,
         "temperatureLowTime": 1667193480,
-        "apparentTemperatureHigh": 66.02,
+        "apparentTemperatureHigh": 66.01,
         "apparentTemperatureHighTime": 1667149020,
         "apparentTemperatureLow": 60.04,
         "apparentTemperatureLowTime": 1667193420,
-        "dewPoint": 60.62,
+        "dewPoint": 60.6,
         "humidity": 0.95,
         "pressure": 1015.2,
         "windSpeed": 14.42,
@@ -1738,12 +1640,12 @@
         "visibility": 10,
         "ozone": 268.1,
         "temperatureMin": 59.02,
-        "temperatureMinTime": 1667090040,
+        "temperatureMinTime": 1667089980,
         "temperatureMax": 66.02,
-        "temperatureMaxTime": 1667149200,
+        "temperatureMaxTime": 1667149140,
         "apparentTemperatureMin": 59.83,
         "apparentTemperatureMinTime": 1667090340,
-        "apparentTemperatureMax": 66.02,
+        "apparentTemperatureMax": 66.01,
         "apparentTemperatureMaxTime": 1667149020
       }
     ]

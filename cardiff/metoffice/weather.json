@@ -16,32 +16,8 @@
           "name": "Zeebrugge"
         },
         "requestPointDistance": 16878.7856,
-        "modelRunDate": "2023-10-23T02:00Z",
+        "modelRunDate": "2023-10-23T03:00Z",
         "timeSeries": [
-          {
-            "time": "2023-10-23T00:00Z",
-            "maxScreenAirTemp": 10.29,
-            "minScreenAirTemp": 8.73,
-            "max10mWindGust": 4.06,
-            "significantWeatherCode": 0,
-            "totalPrecipAmount": 0,
-            "totalSnowAmount": 0,
-            "windSpeed10m": 2.13,
-            "windDirectionFrom10m": 192,
-            "windGustSpeed10m": 3.52,
-            "visibility": 20355,
-            "mslp": 101240,
-            "screenRelativeHumidity": 95.85,
-            "feelsLikeTemp": 7.76,
-            "uvIndex": 0,
-            "probOfPrecipitation": 1,
-            "probOfSnow": 0,
-            "probOfHeavySnow": 0,
-            "probOfRain": 1,
-            "probOfHeavyRain": 0,
-            "probOfHail": 0,
-            "probOfSferics": 0
-          },
           {
             "time": "2023-10-23T03:00Z",
             "maxScreenAirTemp": 8.86,
@@ -429,7 +405,7 @@
           {
             "time": "2023-10-25T03:00Z",
             "maxScreenAirTemp": 10.39,
-            "minScreenAirTemp": 9.58,
+            "minScreenAirTemp": 9.57,
             "max10mWindGust": 7.82,
             "significantWeatherCode": 7,
             "totalPrecipAmount": 0,
@@ -438,7 +414,7 @@
             "windDirectionFrom10m": 193,
             "windGustSpeed10m": 6.64,
             "visibility": 19421,
-            "mslp": 100064,
+            "mslp": 100060,
             "screenRelativeHumidity": 93.52,
             "feelsLikeTemp": 7.6,
             "uvIndex": 0,
@@ -453,7 +429,7 @@
           {
             "time": "2023-10-25T06:00Z",
             "maxScreenAirTemp": 9.73,
-            "minScreenAirTemp": 9.23,
+            "minScreenAirTemp": 9.24,
             "max10mWindGust": 7.42,
             "significantWeatherCode": 7,
             "totalPrecipAmount": 0,
@@ -1385,6 +1361,30 @@
             "probOfHeavyRain": 18,
             "probOfHail": 1,
             "probOfSferics": 3
+          },
+          {
+            "time": "2023-10-30T03:00Z",
+            "maxScreenAirTemp": 11.94,
+            "minScreenAirTemp": 11.66,
+            "max10mWindGust": 13.51,
+            "significantWeatherCode": 7,
+            "totalPrecipAmount": 0,
+            "totalSnowAmount": 0,
+            "windSpeed10m": 7.3,
+            "windDirectionFrom10m": 179,
+            "windGustSpeed10m": 12.33,
+            "visibility": 20212,
+            "mslp": 99797,
+            "screenRelativeHumidity": 85.44,
+            "feelsLikeTemp": 8.62,
+            "uvIndex": 0,
+            "probOfPrecipitation": 15,
+            "probOfSnow": 0,
+            "probOfHeavySnow": 0,
+            "probOfRain": 15,
+            "probOfHeavyRain": 8,
+            "probOfHail": 1,
+            "probOfSferics": 1
           }
         ]
       }

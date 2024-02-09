@@ -16,32 +16,8 @@
           "name": "Zeebrugge"
         },
         "requestPointDistance": 16878.7856,
-        "modelRunDate": "2024-02-09T17:00Z",
+        "modelRunDate": "2024-02-09T18:00Z",
         "timeSeries": [
-          {
-            "time": "2024-02-09T15:00Z",
-            "maxScreenAirTemp": 13.07,
-            "minScreenAirTemp": 12.72,
-            "max10mWindGust": 11.14,
-            "significantWeatherCode": 7,
-            "totalPrecipAmount": 0,
-            "totalSnowAmount": 0,
-            "windSpeed10m": 5.02,
-            "windDirectionFrom10m": 196,
-            "windGustSpeed10m": 10,
-            "visibility": 25411,
-            "mslp": 98260,
-            "screenRelativeHumidity": 78.67,
-            "feelsLikeTemp": 10.79,
-            "uvIndex": 1,
-            "probOfPrecipitation": 7,
-            "probOfSnow": 0,
-            "probOfHeavySnow": 0,
-            "probOfRain": 7,
-            "probOfHeavyRain": 1,
-            "probOfHail": 0,
-            "probOfSferics": 0
-          },
           {
             "time": "2024-02-09T18:00Z",
             "maxScreenAirTemp": 12.9,
@@ -112,12 +88,12 @@
             "probOfRain": 4,
             "probOfHeavyRain": 2,
             "probOfHail": 0,
-            "probOfSferics": 0
+            "probOfSferics": 1
           },
           {
             "time": "2024-02-10T03:00Z",
             "maxScreenAirTemp": 10.21,
-            "minScreenAirTemp": 9.88,
+            "minScreenAirTemp": 9.87,
             "max10mWindGust": 9.23,
             "significantWeatherCode": 7,
             "totalPrecipAmount": 0,
@@ -1385,6 +1361,30 @@
             "probOfHeavyRain": 6,
             "probOfHail": 1,
             "probOfSferics": 1
+          },
+          {
+            "time": "2024-02-16T18:00Z",
+            "maxScreenAirTemp": 9.8,
+            "minScreenAirTemp": 8.99,
+            "max10mWindGust": 11.67,
+            "significantWeatherCode": 8,
+            "totalPrecipAmount": 0,
+            "totalSnowAmount": 0,
+            "windSpeed10m": 6.34,
+            "windDirectionFrom10m": 257,
+            "windGustSpeed10m": 10.32,
+            "visibility": 20342,
+            "mslp": 101459,
+            "screenRelativeHumidity": 83.96,
+            "feelsLikeTemp": 6.02,
+            "uvIndex": 0,
+            "probOfPrecipitation": 16,
+            "probOfSnow": 0,
+            "probOfHeavySnow": 0,
+            "probOfRain": 15,
+            "probOfHeavyRain": 5,
+            "probOfHail": 0,
+            "probOfSferics": 0
           }
         ]
       }
